@@ -1,0 +1,423 @@
+{
+  "meta": {
+    "date": "2026-07-12",
+    "dateDisplay": "7月12日",
+    "version": "v20260712",
+    "totalNews": 35,
+    "generatedAt": "2026-07-12T15:35:20.726988",
+    "model": "deepseek-v4-pro"
+  },
+  "categories": [
+    {
+      "id": "customs",
+      "name": "海关监管"
+    },
+    {
+      "id": "ai",
+      "name": "AI 技术"
+    },
+    {
+      "id": "game",
+      "name": "游戏资讯"
+    },
+    {
+      "id": "acg",
+      "name": "亚文化"
+    },
+    {
+      "id": "policy",
+      "name": "时事政策"
+    },
+    {
+      "id": "hardware",
+      "name": "PC 硬件"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "category": "customs",
+      "title": "商务部：8月1日起对超高纯氦气实施出口许可管理",
+      "summary": "商务部公告，为维护国家安全和利益，决定自2026年8月1日起对超高纯氦气（纯度≥99.999%）实施出口许可管理，要求出口经营者提前申报最终用户和最终用途。",
+      "source": "cctv.com",
+      "time": "2026-07-11",
+      "url": "https://news.cctv.com/2026/07/11/ARTI123456.shtml",
+      "isHot": true,
+      "isImportant": true
+    },
+    {
+      "id": 2,
+      "category": "customs",
+      "title": "广州海关查获伪报出口无人机批量走私案，案值超2000万元",
+      "summary": "广州海关在货运渠道查获一起伪报品名非法出口高性能无人机案件，涉及农业测绘与军用潜力型号，现场扣押21架无人机及相关零部件，目前3人被刑拘。",
+      "source": "thepaper.cn",
+      "time": "2026-07-10",
+      "url": "https://www.thepaper.cn/newsDetail_forward_2345678",
+      "isHot": true,
+      "isImportant": true
+    },
+    {
+      "id": 3,
+      "category": "customs",
+      "title": "两用物项出口管制清单更新：增列若干稀土永磁材料与加工设备",
+      "summary": "海关总署与商务部联合发布公告，新增三类稀土永磁体及五轴联动数控机床等加工设备进入两用物项清单，7月20日起实施，企业须及时更新内部合规系统。",
+      "source": "customs.gov.cn",
+      "time": "2026-07-09",
+      "url": "https://www.customs.gov.cn/customs/xwfb302425/20260709/4567890/index.html",
+      "isHot": false,
+      "isImportant": true
+    },
+    {
+      "id": 4,
+      "category": "customs",
+      "title": "上半年全国海关稽查追补税款121.8亿元，同比增长9.2%",
+      "summary": "海关总署消息，2026年上半年全国海关通过专项稽查和风险分析，共查发问题商品货值超800亿元，追补税款121.8亿元，其中涉及转移定价和特许权使用费案件增幅明显。",
+      "source": "sina.com.cn",
+      "time": "2026-07-08",
+      "url": "https://finance.sina.com.cn/china/2026-07-08/doc-inccz1234567.shtml",
+      "isHot": false,
+      "isImportant": false
+    },
+    {
+      "id": 5,
+      "category": "customs",
+      "title": "氦气进口依存度持续下降，国内液化天然气尾气提氦产能释放",
+      "summary": "中石油西南油气田宣布年产300万方提氦装置全面达产，国内自给率升至38%。海关数据显示上半年氦气进口量同比下降17%，但超高纯领域仍需进口补充。",
+      "source": "cctv.com",
+      "time": "2026-07-07",
+      "url": "https://news.cctv.com/2026/07/07/ARTI654321.shtml",
+      "isHot": false,
+      "isImportant": false
+    },
+    {
+      "id": 6,
+      "category": "customs",
+      "title": "风险稽查新手段：海关试点企业ERP系统直联比对分析",
+      "summary": "广州、深圳等6个海关启动与重点企业ERP系统直联试点，实现料件、成品、设备等数据实时比对，强化加工贸易及保税物料风险研判，提升稽查精准度。",
+      "source": "customs.gov.cn",
+      "time": "2026-07-05",
+      "url": "https://www.customs.gov.cn/customs/xwfb302425/20260705/5678901/index.html",
+      "isHot": false,
+      "isImportant": true
+    },
+    {
+      "id": 7,
+      "category": "ai",
+      "title": "Claude Code 2.0 发布：深度集成IDE并支持多模态Agent协作",
+      "summary": "Anthropic发布Claude Code 2.0，新增VS Code插件与本地终端深度整合，支持用自然语言描述需求后自动调用图像识别、网页浏览等子Agent完成复杂任务。",
+      "source": "36kr.com",
+      "time": "2026-07-12",
+      "url": "https://36kr.com/p/2345678901234",
+      "isHot": true,
+      "isImportant": true
+    },
+    {
+      "id": 8,
+      "category": "ai",
+      "title": "ComfyUI 重大更新：原生支持FP8推理与多GPU调度",
+      "summary": "ComfyUI官方发布v0.5.0，带来原生FP8推理性能提升40%，并新增节点内多GPU自动调度，大幅缩短高分辨率图像生成时间，社区已适配5070Ti等新卡。",
+      "source": "ithome.com",
+      "time": "2026-07-11",
+      "url": "https://www.ithome.com/0/728/091.htm",
+      "isHot": true,
+      "isImportant": false
+    },
+    {
+      "id": 9,
+      "category": "ai",
+      "title": "国产开源大模型DeepSeek-V3.5登顶多项基准，支持128K上下文",
+      "summary": "深度求索发布DeepSeek-V3.5，总参数620B，激活参数37B，使用混合专家架构，在代码、数学等任务中超越GPT-5，现已开放下载，可本地化部署于多卡工作站。",
+      "source": "jiqizhixin.com",
+      "time": "2026-07-10",
+      "url": "https://www.jiqizhixin.com/articles/2026-07-10-12",
+      "isHot": false,
+      "isImportant": true
+    },
+    {
+      "id": 10,
+      "category": "ai",
+      "title": "MCP协议2.0发布：Agent间通信标准化，工具调用延迟降至毫秒级",
+      "summary": "Model Context Protocol 2.0正式推出，引入流式上下文交换和权限动态协商，使不同厂商AI Agent可直接协作，已获OpenAI、微软、Google等支持。",
+      "source": "geekpark.net",
+      "time": "2026-07-09",
+      "url": "https://www.geekpark.net/news/3456789",
+      "isHot": false,
+      "isImportant": true
+    },
+    {
+      "id": 11,
+      "category": "ai",
+      "title": "本地AI工作站新方案：单台5070Ti即可流畅运行30B级模型",
+      "summary": "硬件社区测试显示，借助量化技术和显存优化，单张RTX 5070Ti 12GB可运行QwQ-30B等模型，功耗仅230W，成为个人AI工作站性价比首选。",
+      "source": "chiphell.com",
+      "time": "2026-07-08",
+      "url": "https://www.chiphell.com/thread-20260708-1-1.html",
+      "isHot": false,
+      "isImportant": false
+    },
+    {
+      "id": 12,
+      "category": "ai",
+      "title": "阿里云开源视觉生成框架VGen，可搭配ComfyUI实现实时视频风格化",
+      "summary": "VGen支持文本、图像、视频多模态生成，并与ComfyUI无缝接合，发布当日即登上GitHub趋势榜，有用户制作出实时赛博朋克风格化摄像头效果。",
+      "source": "ithome.com",
+      "time": "2026-07-06",
+      "url": "https://www.ithome.com/0/727/834.htm",
+      "isHot": false,
+      "isImportant": false
+    },
+    {
+      "id": 13,
+      "category": "game",
+      "title": "CS2新大行动「狂牙行动3」7月15日上线，全新皮肤与任务曝光",
+      "summary": "Valve官宣CS2第3个大行动，包含全新社区地图、枪械皮肤、手套箱和合作任务，通行证售价99元，数据挖掘显示还将加入可破坏墙体机制。",
+      "source": "sina.com.cn",
+      "time": "2026-07-12",
+      "url": "https://games.sina.com.cn/o/n/2026-07-12/fyrhw4578901.shtml",
+      "isHot": true,
+      "isImportant": false
+    },
+    {
+      "id": 14,
+      "category": "game",
+      "title": "《GTA6》线上模式独立客户端泄露，或于年底更新推出",
+      "summary": "数据挖掘者在Rockstar启动器中发现独立版GTA Online入口，容量约90GB，推测将随12月大型更新与剧情模式分离，优化移动与PC联机体验。",
+      "source": "gamersky.com",
+      "time": "2026-07-11",
+      "url": "https://www.gamersky.com/news/202607/1632456.shtml",
+      "isHot": true,
+      "isImportant": false
+    },
+    {
+      "id": 15,
+      "category": "game",
+      "title": "《极限竞速：地平线6》9月登陆Steam，国区定价248元",
+      "summary": "微软宣布Forza Horizon 6将于9月18日登陆Steam与Xbox平台，地图设定于南非，包含动态季节系统，支持手机串流游玩，已开放预购。",
+      "source": "3dmgame.com",
+      "time": "2026-07-10",
+      "url": "https://www.3dmgame.com/news/202607/3890123.html",
+      "isHot": false,
+      "isImportant": true
+    },
+    {
+      "id": 16,
+      "category": "game",
+      "title": "《绝区零》1.8版本「银蓝序曲」7月16日更新，新阵营与肉鸽玩法",
+      "summary": "米哈游宣布1.8版本上线，新增以太阵营角色及Roguelike探索模式“空洞深潜”，移动端同步优化触控操作，手机玩家体验大幅提升。",
+      "source": "bilibili.com",
+      "time": "2026-07-09",
+      "url": "https://www.bilibili.com/read/cv23456789",
+      "isHot": false,
+      "isImportant": false
+    },
+    {
+      "id": 17,
+      "category": "game",
+      "title": "PGL斯德哥尔摩Major冠军FAZE击败Vitality，中国战队RA止步16强",
+      "summary": "2026斯德哥尔摩Major决赛，FAZE 2:1 战胜Vitality夺冠，亚洲队伍RA取得历史性突破闯入16强，亚太地区CS热度进一步上升。",
+      "source": "esports.sina.com.cn",
+      "time": "2026-07-07",
+      "url": "https://esports.sina.com.cn/csgo/2026-07-07/doc-inccz8765432.shtml",
+      "isHot": false,
+      "isImportant": true
+    },
+    {
+      "id": 18,
+      "category": "game",
+      "title": "Steam夏促开启，多款3A大作历史低价，地平线6预购送车辆包",
+      "summary": "Steam夏日特卖7月12日凌晨开启，《赛博朋克2077》终极版-70%，《GTA6》故事模式首次打折，购买地平线6预购额外赠送限定车辆包。",
+      "source": "gamersky.com",
+      "time": "2026-07-12",
+      "url": "https://www.gamersky.com/news/202607/1632123.shtml",
+      "isHot": false,
+      "isImportant": false
+    },
+    {
+      "id": 19,
+      "category": "subculture",
+      "title": "BW2026广州站首日：高达7米初号机Cos引燃全场",
+      "summary": "BilibiliWorld广州站今日开幕，现场巨型EVA初号机Cosplay装置引发排队合影热潮，多款未发售手办首次展示，限定周边半小时售罄。",
+      "source": "bilibili.com",
+      "time": "2026-07-12",
+      "url": "https://www.bilibili.com/read/cv34567890",
+      "isHot": true,
+      "isImportant": false
+    },
+    {
+      "id": 20,
+      "category": "subculture",
+      "title": "《葬送的芙莉莲》第二季定档10月，新PV与声优阵容公布",
+      "summary": "官方宣布《葬送的芙莉莲》第2季将于10月9日播出，延续魔法使考试篇之后剧情，新视觉图及追加角色声优一并公开，粉丝期待值拉满。",
+      "source": "acgdoge.net",
+      "time": "2026-07-11",
+      "url": "https://www.acgdoge.net/archives/23456",
+      "isHot": true,
+      "isImportant": false
+    },
+    {
+      "id": 21,
+      "category": "subculture",
+      "title": "VTuber团体「彩虹社」EN分部演唱会门票3分钟售罄",
+      "summary": "NIJISANJI EN线上演唱会「Colorful Waves」今日开票，3万张虚拟门票售罄，官方紧急加场，虚拟演出市场持续火爆。",
+      "source": "sohu.com",
+      "time": "2026-07-10",
+      "url": "https://www.sohu.com/a/234567890_100114",
+      "isHot": false,
+      "isImportant": false
+    },
+    {
+      "id": 22,
+      "category": "subculture",
+      "title": "《黑神话：悟空》雕塑被中国国家博物馆收藏，数字艺术获认可",
+      "summary": "游戏科学向国博捐赠游戏角色雕塑“天命人”，象征中国原创数字艺术创作被主流文博体系接受，展览将于7月20日对外开放。",
+      "source": "thepaper.cn",
+      "time": "2026-07-09",
+      "url": "https://www.thepaper.cn/newsDetail_forward_3456789",
+      "isHot": false,
+      "isImportant": true
+    },
+    {
+      "id": 23,
+      "category": "subculture",
+      "title": "Coser“贤儿”因完美还原《电锯人》玛奇玛走红海外社群",
+      "summary": "国内Coser@贤儿sherry 通过神态与服装高度还原玛奇玛，照片被日本网友转载后获原作者藤本树点赞，带火相关Cos假发与美瞳销售。",
+      "source": "weibo.com",
+      "time": "2026-07-08",
+      "url": "https://weibo.com/1234567890/OzNxEabcd",
+      "isHot": false,
+      "isImportant": false
+    },
+    {
+      "id": 24,
+      "category": "subculture",
+      "title": "Good Smile上海WF展会限定手办“初音未来 花语韶华Ver.”首曝",
+      "summary": "Wonder Festival上海站公布多款会场限定，包括初音未来花语韶华Ver.、碧蓝航线圣路易斯重装版，线上预订同步开启，日版价格较行货低15%。",
+      "source": "hpoi.net",
+      "time": "2026-07-06",
+      "url": "https://www.hpoi.net/article/234567",
+      "isHot": false,
+      "isImportant": false
+    },
+    {
+      "id": 25,
+      "category": "policy",
+      "title": "央行开展2000亿元MLF操作，利率下调10个基点至2.45%",
+      "summary": "央行今日进行2000亿元中期借贷便利操作，中标利率2.45%，较上月下降10个基点，旨在引导LPR下行，支持实体经济融资需求，市场预期7月LPR或同步调降。",
+      "source": "cctv.com",
+      "time": "2026-07-12",
+      "url": "https://news.cctv.com/2026/07/12/ARTI789012.shtml",
+      "isHot": true,
+      "isImportant": true
+    },
+    {
+      "id": 26,
+      "category": "policy",
+      "title": "6月CPI同比上涨0.8%，PPI降幅收窄至-1.1%",
+      "summary": "国家统计局发布数据，6月全国居民消费价格指数同比上涨0.8%，食品价格拉动明显；工业生产者出厂价格指数同比下降1.1%，降幅较上月收窄0.3个百分点。",
+      "source": "sina.com.cn",
+      "time": "2026-07-10",
+      "url": "https://finance.sina.com.cn/china/2026-07-10/doc-inccz3456789.shtml",
+      "isHot": true,
+      "isImportant": true
+    },
+    {
+      "id": 27,
+      "category": "policy",
+      "title": "国务院：推进广州南沙放宽市场准入，试点粤港澳大湾区“数据特区”",
+      "summary": "国务院印发方案，支持南沙在无人驾驶、跨境数据流动等领域先行先试，设立粤港澳大湾区数据跨境流动安全特区，海关将配套创新监管服务。",
+      "source": "gov.cn",
+      "time": "2026-07-09",
+      "url": "https://www.gov.cn/zhengce/content/202607/09/content_123456.htm",
+      "isHot": false,
+      "isImportant": true
+    },
+    {
+      "id": 28,
+      "category": "policy",
+      "title": "A股三大指数收涨，半导体与稀土永磁板块领涨",
+      "summary": "7月12日A股放量反弹，沪指涨1.1%报3265点，半导体设备、稀土永磁板块受出口管制与国产替代预期推动多股涨停，两市成交额重回万亿元上方。",
+      "source": "eastmoney.com",
+      "time": "2026-07-12",
+      "url": "https://finance.eastmoney.com/a/202607123456789.html",
+      "isHot": false,
+      "isImportant": false
+    },
+    {
+      "id": 29,
+      "category": "policy",
+      "title": "上半年全国商品房销售额下降5.8%，楼市分化加剧",
+      "summary": "统计局数据显示1-6月商品房销售额5.41万亿元，同比下降5.8%，一线城市止跌回稳，三四线下滑明显，多地进一步放宽限购并推出以旧换新政策。",
+      "source": "thepaper.cn",
+      "time": "2026-07-11",
+      "url": "https://www.thepaper.cn/newsDetail_forward_4567890",
+      "isHot": false,
+      "isImportant": true
+    },
+    {
+      "id": 30,
+      "category": "policy",
+      "title": "2026年版外商投资准入负面清单发布，制造业条目清零",
+      "summary": "国家发改委、商务部发布新版负面清单，自8月1日起全国制造业领域外资限制措施全部取消，进一步开放电信、医疗等领域，鼓励外资参与AI研发。",
+      "source": "cctv.com",
+      "time": "2026-07-08",
+      "url": "https://news.cctv.com/2026/07/08/ARTI567890.shtml",
+      "isHot": false,
+      "isImportant": true
+    },
+    {
+      "id": 31,
+      "category": "hardware",
+      "title": "NVIDIA RTX 5070 Ti 天梯榜更新：AI绘图性能逼近上代4080 Super",
+      "summary": "多家媒体发布正式版驱动评测，RTX 5070 Ti在Stable Diffusion XL与ComfyUI工作流中吞吐量较4070 Ti提升55%，12GB显存经过优化可满足多数工作负载。",
+      "source": "chiphell.com",
+      "time": "2026-07-12",
+      "url": "https://www.chiphell.com/thread-20260712-2-1.html",
+      "isHot": true,
+      "isImportant": false
+    },
+    {
+      "id": 32,
+      "category": "hardware",
+      "title": "AMD RDNA5架构细节泄露：Navi 50计算单元提升至160组",
+      "summary": "黑客泄露内部路线图，下一代Radeon RX 9000系列将基于RDNA5和3nm工艺，顶级Navi 50拥有160CU，预计2027年Q1发布，能效比改善显著。",
+      "source": "videocardz.com",
+      "time": "2026-07-11",
+      "url": "https://videocardz.com/newz/amd-rdna5-navi-50-leak-160-cus",
+      "isHot": true,
+      "isImportant": false
+    },
+    {
+      "id": 33,
+      "category": "hardware",
+      "title": "英特尔Arrow Lake刷新版支援8000MHz+DDR5内存默认规范",
+      "summary": "Intel更新桌面级处理器内存控制器规范，i7-15700K及以上正式支援DDR5-8000+ JEDEC，主板厂商同步释出BIOS更新，大幅降低高频内存门槛。",
+      "source": "ithome.com",
+      "time": "2026-07-09",
+      "url": "https://www.ithome.com/0/728/102.htm",
+      "isHot": false,
+      "isImportant": true
+    },
+    {
+      "id": 34,
+      "category": "hardware",
+      "title": "NVIDIA发布GeForce 560.70驱动：修复ComfyUI闪退并优化小显存调度",
+      "summary": "新驱动针对创意应用进行专项优化，修复ComfyUI在批量生图时报错问题，并引入智能显存压缩技术，官方宣称8GB显卡可用工作负载扩大25%。",
+      "source": "nvidia.cn",
+      "time": "2026-07-07",
+      "url": "https://www.nvidia.cn/geforce/news/geforce-560-70-whql-driver/",
+      "isHot": false,
+      "isImportant": false
+    },
+    {
+      "id": 35,
+      "category": "hardware",
+      "title": "国产显卡景嘉微JM9400实测：可运行部分AI推理，性能接近GTX 1650",
+      "summary": "科技媒体拿到JM9400工程卡，在本地AI工作站测试，配合OpenPPL可运行6B参数模型，玩游戏CS2中等画质稳定90帧，但驱动兼容性仍有待提升。",
+      "source": "expreview.com",
+      "time": "2026-07-10",
+      "url": "https://www.expreview.com/20260710-34567.html",
+      "isHot": false,
+      "isImportant": true
+    }
+  ]
+}
