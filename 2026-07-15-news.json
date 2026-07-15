@@ -1,503 +1,503 @@
 {
-  "date": "2026-07-15",
-  "updated_at": "2026-07-16T00:05:00+08:00",
-  "total_count": 44,
-  "categories": [
-    {
-      "key": "customs",
-      "name": "海关监管",
-      "count": 6,
-      "news": [
-        {
-          "id": 1,
-          "title": "海关总署发布第98号公告 调整部分两用物项出口管制措施",
-          "summary": "7月15日起正式施行，涉及高性能计算芯片、特种传感器等17项物项管制范围优化，明确海关核验标准与申报要求。",
-          "source": "海关总署",
-          "url": "http://www.customs.gov.cn/customs/302249/302266/302267/5678901/index.html",
-          "date": "2026-07-15",
-          "is_hot": true,
-          "is_important": true
-        },
-        {
-          "id": 2,
-          "title": "全国海关开展出口退税备案单证专项稽查 三个月立案237起",
-          "summary": "重点打击虚假贸易、循环出口等骗税行为，广东、浙江、江苏三地立案数占全国六成，涉税额超12亿元。",
-          "source": "中国海关杂志",
-          "url": "https://www.zghgzz.com.cn/article/2026/0715/52341.html",
-          "date": "2026-07-14",
-          "is_hot": false,
-          "is_important": true
-        },
-        {
-          "id": 3,
-          "title": "氦气临时出口管制首月数据：出口量同比下降87% 申报合规率98.2%",
-          "summary": "商务部海关总署联合通报管制实施效果，全国各口岸累计拦截违规申报17起，主要问题集中在两用物项归类错报。",
-          "source": "央视网",
-          "url": "https://news.cctv.com/2026/07/14/ARTI9aGxmVFWrYQiFDVA26xG260714.shtml",
-          "date": "2026-07-14",
-          "is_hot": false,
-          "is_important": true
-        },
-        {
-          "id": 4,
-          "title": "广州海关查获走私人造金刚石大案 案值超3.2亿元",
-          "summary": "打掉专业走私团伙3个，查证走私培育钻石12万克拉，采用低报价格、伪报品名方式从印度等地走私入境。",
-          "source": "南方日报",
-          "url": "https://www.southcn.com/node_52b5e3e8c2f7/2026-07/14/content_56782341.htm",
-          "date": "2026-07-14",
-          "is_hot": false,
-          "is_important": false
-        },
-        {
-          "id": 5,
-          "title": "海关总署解读AEO高级认证新标准 7月20日起正式实施",
-          "summary": "新增供应链安全、数据安全两项认证指标，简化内部管控模块，认证企业可享受优先查验、汇总征税等18项便利措施。",
-          "source": "海关发布",
-          "url": "https://mp.weixin.qq.com/s/abc123def456ghi789",
-          "date": "2026-07-13",
-          "is_hot": false,
-          "is_important": true
-        },
-        {
-          "id": 6,
-          "title": "跨境电商B2B出口监管新规试点扩围 新增12个直属海关",
-          "summary": "9710、9810监管模式试点范围扩大至全国主要口岸，简化申报流程，支持海外仓退货，助力外贸新业态发展。",
-          "source": "经济参考报",
-          "url": "http://www.jjckb.cn/2026-07/13/content_56781234.htm",
-          "date": "2026-07-13",
-          "is_hot": false,
-          "is_important": false
-        }
-      ]
-    },
-    {
-      "key": "law",
-      "name": "法律动态",
-      "count": 5,
-      "news": [
-        {
-          "id": 7,
-          "title": "最高法发布行政诉讼法司法解释 明确海关行政案件管辖规则",
-          "summary": "共37条，细化海关归类争议、处罚决定等专业行政案件的审理标准，明确技术性证据审查规则，8月1日起施行。",
-          "source": "最高人民法院",
-          "url": "https://www.court.gov.cn/fabu-xiangqing-456781.html",
-          "date": "2026-07-15",
-          "is_hot": true,
-          "is_important": true
-        },
-        {
-          "id": 8,
-          "title": "出口管制法配套条例公开征求意见 细化违法处罚裁量标准",
-          "summary": "首次明确明知故犯从重处罚情形，增加约谈、信用惩戒等柔性执法手段，罚款幅度与违法所得挂钩更精准。",
-          "source": "司法部",
-          "url": "http://www.moj.gov.cn/pub/sfbgw/flfggz/flfggzfljz/202607/t20260714_456789.html",
-          "date": "2026-07-14",
-          "is_hot": false,
-          "is_important": true
-        },
-        {
-          "id": 9,
-          "title": "上海知识产权法院宣判跨境商标侵权案 适用惩罚性赔偿判赔3000万",
-          "summary": "被告通过跨境电商平台销售假冒奢侈品，海关查获后权利人起诉，法院认定侵权故意明显且规模巨大，按3倍顶格判赔。",
-          "source": "中国普法网",
-          "url": "http://www.legalinfo.gov.cn/index/content/2026-07/14/content_56784567.htm",
-          "date": "2026-07-14",
-          "is_hot": false,
-          "is_important": false
-        },
-        {
-          "id": 10,
-          "title": "最高检发布行政检察指导性案例 含两起海关行政复议监督案",
-          "summary": "明确海关归类争议中行政机关的举证责任，强调专业技术问题应当听取行业专家意见，保障相对人陈述申辩权。",
-          "source": "最高人民检察院",
-          "url": "https://www.spp.gov.cn/spp/xwfbh/wsfbt/202607/t20260713_5678901.shtml",
-          "date": "2026-07-13",
-          "is_hot": false,
-          "is_important": true
-        },
-        {
-          "id": 11,
-          "title": "行政处罚法修订草案提请审议 新增从轻减轻处罚法定情形",
-          "summary": "增加初次违法且危害后果轻微并及时改正不予处罚的具体认定标准，完善行刑衔接程序，缩短办案期限。",
-          "source": "法治日报",
-          "url": "http://www.legaldaily.com.cn/index/content/2026-07/13/content_56783456.htm",
-          "date": "2026-07-13",
-          "is_hot": false,
-          "is_important": false
-        }
-      ]
-    },
-    {
-      "key": "ai",
-      "name": "AI 技术",
-      "count": 6,
-      "news": [
-        {
-          "id": 12,
-          "title": "GPT-5.6 Turbo发布 上下文窗口扩展至200万token",
-          "summary": "OpenAI凌晨发布新版本，推理速度提升3倍，长文档处理能力大幅增强，API价格下调20%，开发者已可调用。",
-          "source": "机器之心",
-          "url": "https://www.jiqizhixin.com/articles/2026-07-15-3",
-          "date": "2026-07-15",
-          "is_hot": true,
-          "is_important": true
-        },
-        {
-          "id": 13,
-          "title": "GitHub Trending昨日榜首：OpenManus 开源Agent框架单日涨星3.2k",
-          "summary": "纯Python实现的多模态Agent框架，支持浏览器自动化、代码执行、文件操作，零配置即可运行，已登顶GitHub日榜第一。",
-          "source": "GitHub Trending",
-          "url": "https://github.com/hellodwarf/OpenManus",
-          "date": "2026-07-15",
-          "is_hot": true,
-          "is_important": false
-        },
-        {
-          "id": 14,
-          "title": "Claude Code 3.7更新 原生支持MCP服务器批量管理",
-          "summary": "新增MCP服务器图形化配置界面，支持热插拔切换工具集，代码生成准确率提升18%，本地项目上下文理解更强。",
-          "source": "Anthropic官方博客",
-          "url": "https://www.anthropic.com/index/claude-code-3-7",
-          "date": "2026-07-14",
-          "is_hot": false,
-          "is_important": true
-        },
-        {
-          "id": 15,
-          "title": "国产大模型再突破：深度求索发布DeepSeek-V3.5 数学能力追平GPT-5",
-          "summary": "MMLU、GSM8K等多项基准测试成绩逼近GPT-5系列，开源版本可免费商用，上下文支持128K，推理成本仅为竞品1/10。",
-          "source": "量子位",
-          "url": "https://www.qbitai.com/2026/07/123456.html",
-          "date": "2026-07-14",
-          "is_hot": true,
-          "is_important": false
-        },
-        {
-          "id": 16,
-          "title": "GitHub热门项目：ComfyUI-MCP-Bridge 让AI Agent直接操作工作流",
-          "summary": "通过MCP协议暴露ComfyUI全部节点能力，Agent可自动编写工作流、生成图片、批量处理，昨日star暴涨2.1k。",
-          "source": "GitHub Trending",
-          "url": "https://github.com/Comfy-Org/ComfyUI-MCP-Bridge",
-          "date": "2026-07-14",
-          "is_hot": false,
-          "is_important": true
-        },
-        {
-          "id": 17,
-          "title": "WAIC 2026开幕 华为发布万卡超节点集群 算力密度全球第一",
-          "summary": "昇腾910C超节点单集群算力达256EFLOPS，支持万卡级并行训练，已在多个城市部署，国产AI算力再上新台阶。",
-          "source": "36氪",
-          "url": "https://36kr.com/p/2876543210987654",
-          "date": "2026-07-13",
-          "is_hot": false,
-          "is_important": false
-        }
-      ]
-    },
-    {
-      "key": "policy",
-      "name": "时事政策",
-      "count": 6,
-      "news": [
-        {
-          "id": 18,
-          "title": "国常会部署进一步扩大消费 出台十五五促消费规划",
-          "summary": "涵盖汽车、家电、文旅、养老服务等十大领域，安排财政补贴2000亿元，多措并举释放居民消费潜力。",
-          "source": "新华社",
-          "url": "https://www.xinhuanet.com/2026-07/15/c_1123456789.htm",
-          "date": "2026-07-15",
-          "is_hot": true,
-          "is_important": true
-        },
-        {
-          "id": 19,
-          "title": "上半年进出口数据出炉 总值同比增长5.8% 出口韧性强劲",
-          "summary": "以人民币计价进出口总值23.55万亿元，机电产品出口占比提升至62%，对一带一路沿线国家贸易增长11.3%。",
-          "source": "海关总署",
-          "url": "http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/302274/302277/5678912/index.html",
-          "date": "2026-07-14",
-          "is_hot": false,
-          "is_important": true
-        },
-        {
-          "id": 20,
-          "title": "六部委联合发布硬科技三年行动方案 设百亿专项资金",
-          "summary": "聚焦集成电路、人工智能、生物制造、商业航天六大硬科技领域，支持关键核心技术攻关与产业化应用。",
-          "source": "科技部",
-          "url": "https://www.most.gov.cn/xxgk/xinxifenlei/fgwj/gfxwj/202607/t20260714_187654.html",
-          "date": "2026-07-14",
-          "is_hot": false,
-          "is_important": true
-        },
-        {
-          "id": 21,
-          "title": "楼市新政全国统一落地 首付比例最低降至15%",
-          "summary": "首套房首付比例统一下调，公积金贷款额度提高，二手房交易税费减免，多地已出台配套实施细则。",
-          "source": "财新网",
-          "url": "https://www.caixin.com/2026-07-14/102345678.html",
-          "date": "2026-07-14",
-          "is_hot": true,
-          "is_important": false
-        },
-        {
-          "id": 22,
-          "title": "十五五碳达峰行动方案正式印发 明确十大重点任务",
-          "summary": "提出2030年前碳达峰目标路径，严控高耗能高排放项目，大力发展新能源，加快产业结构绿色转型。",
-          "source": "新华财经",
-          "url": "https://m.cnfin.com/yw-lb/zixun/20260713/4439141_1.html",
-          "date": "2026-07-13",
-          "is_hot": false,
-          "is_important": true
-        },
-        {
-          "id": 23,
-          "title": "央行二季度例会：继续实施适度宽松货币政策 降准仍有空间",
-          "summary": "保持流动性合理充裕，加大对实体经济支持力度，推动企业综合融资成本稳中有降，人民币汇率保持基本稳定。",
-          "source": "人民网",
-          "url": "http://finance.people.com.cn/n1/2026/0713/c1004-40757244.html",
-          "date": "2026-07-13",
-          "is_hot": false,
-          "is_important": false
-        }
-      ]
-    },
-    {
-      "key": "paper",
-      "name": "法学论文",
-      "count": 5,
-      "news": [
-        {
-          "id": 24,
-          "title": "《中国法学》最新刊文：出口管制法的合规边界与执法裁量研究",
-          "summary": "系统梳理两用物项认定中的法律争议，分析最终用户条款的解释路径，提出建立分级分类合规指引的立法建议。",
-          "source": "中国法学",
-          "url": "https://www.zgfxzz.com/CN/10.14111/j.cnki.zgfx.2026.04.005",
-          "date": "2026-07-15",
-          "is_hot": false,
-          "is_important": true
-        },
-        {
-          "id": 25,
-          "title": "海关商品归类争议的司法审查标准研究 —— 基于230份裁判文书的实证分析",
-          "summary": "统计近五年全国海关行政诉讼案件，发现归类争议胜诉率仅12%，法院对海关专业认定高度尊重，归类错误认定标准模糊。",
-          "source": "行政法学研究",
-          "url": "https://xzfx.cbpt.cnki.net/WKA/WebPublication/paperDigest.aspx?paperID=abc123",
-          "date": "2026-07-14",
-          "is_hot": false,
-          "is_important": true
-        },
-        {
-          "id": 26,
-          "title": "《法学研究》：行政罚没收入的法治化控制",
-          "summary": "分析当前行政处罚中以罚代管、罚款指标化等问题，从预算管理、程序规范、救济监督三个维度提出制度完善方案。",
-          "source": "法学研究",
-          "url": "https://www.faxueyanjiu.com/CN/1000-114X/home.shtml",
-          "date": "2026-07-13",
-          "is_hot": false,
-          "is_important": false
-        },
-        {
-          "id": 27,
-          "title": "跨境数据流动的海关监管困境与制度构建",
-          "summary": "探讨数字贸易时代海关如何对数据跨境流动实施有效监管，对比欧盟、美国、新加坡模式，提出中国方案。",
-          "source": "中外法学",
-          "url": "https://journal.pkulaw.cn/zfxq/CN/volumn/home.shtml",
-          "date": "2026-07-12",
-          "is_hot": false,
-          "is_important": true
-        },
-        {
-          "id": 28,
-          "title": "穿透式监管的行政法边界 —— 以海关稽查穿透战法为切入点",
-          "summary": "分析穿透式监管在海关执法中的适用现状，讨论其与行政合法性原则、比例原则的冲突，提出程序规制路径。",
-          "source": "清华法学",
-          "url": "https://journal.law.tsinghua.edu.cn/qhfx/CN/1674-5205/home.shtml",
-          "date": "2026-07-10",
-          "is_hot": false,
-          "is_important": false
-        }
-      ]
-    },
-    {
-      "key": "game",
-      "name": "游戏资讯",
-      "count": 6,
-      "news": [
-        {
-          "id": 29,
-          "title": "CS2第五赛季正式上线 全新地图Ancient重做回归竞技池",
-          "summary": "Ancient地图视觉全面重制，新增武器皮肤系统优化，反作弊升级，匹配机制调整，赛季奖励同步上线。",
-          "source": "完美世界电竞",
-          "url": "https://www.csgo.com.cn/news/20260715/234567.html",
-          "date": "2026-07-15",
-          "is_hot": true,
-          "is_important": false
-        },
-        {
-          "id": 30,
-          "title": "GTAOL夏季大更新上线 全新抢劫任务太平洋标准银行2.0",
-          "summary": "经典抢劫任务重制回归，新增12辆载具、5个新任务、大量服装武器，游戏画质优化，支持DLSS 4。",
-          "source": "Rockstar官方",
-          "url": "https://www.rockstargames.com/newswire/article/abc123def",
-          "date": "2026-07-14",
-          "is_hot": true,
-          "is_important": true
-        },
-        {
-          "id": 31,
-          "title": "Steam上半年营收111亿美元创新高 国产游戏占比持续提升",
-          "summary": "中国玩家贡献收入占比28%稳居第一，上半年新品数量同比增长15%，独立游戏表现亮眼。",
-          "source": "GameLook",
-          "url": "https://www.gamelook.com.cn/2026/07/567890",
-          "date": "2026-07-13",
-          "is_hot": false,
-          "is_important": false
-        },
-        {
-          "id": 32,
-          "title": "极限竞速：地平线6日本地图实机演示放出 还原东京街头",
-          "summary": "放出15分钟实机演示，涩谷、箱根、富士山等经典场景高度还原，车辆数量超过800台，JDM车型大幅增加。",
-          "source": "游民星空",
-          "url": "https://www.gamersky.com/news/202607/1567890.shtml",
-          "date": "2026-07-13",
-          "is_hot": false,
-          "is_important": true
-        },
-        {
-          "id": 33,
-          "title": "Steam夏季促销正式结束 GTA5、艾尔登法环等大作史低收尾",
-          "summary": "本次夏促共超万款游戏打折，平均折扣5折，多款3A大作创下历史最低价，下一次大促预计11月秋季促销。",
-          "source": "什么值得买",
-          "url": "https://post.m.smzdm.com/p/az84p990/",
-          "date": "2026-07-11",
-          "is_hot": false,
-          "is_important": false
-        },
-        {
-          "id": 34,
-          "title": "CS2 Major 2026落户上海 11月正式开赛",
-          "summary": "完美世界官宣CS2全球Major总决赛落地上海梅赛德斯奔驰文化中心，这是中国首次承办CS顶级赛事。",
-          "source": "VPGAME",
-          "url": "https://www.vpgame.com/news/5678901",
-          "date": "2026-07-10",
-          "is_hot": false,
-          "is_important": true
-        }
-      ]
-    },
-    {
-      "key": "acg",
-      "name": "亚文化二次元",
-      "count": 5,
-      "news": [
-        {
-          "id": 35,
-          "title": "BilibiliWorld 2026圆满收官 40万人次参展创历史新高",
-          "summary": "四天展会入场观众突破40万，170余家参展商同台竞技，原神、星穹铁道、明日方舟等大厂展台人气爆棚。",
-          "source": "第一财经",
-          "url": "http://m.toutiao.com/group/7661573895509656105/",
-          "date": "2026-07-14",
-          "is_hot": true,
-          "is_important": true
-        },
-        {
-          "id": 36,
-          "title": "香港动漫电玩节本周末开幕 大量限定手办首发",
-          "summary": "第25届香港动漫节7月18-22日在会展举办，万代、GoodSmile等厂商带来多款会场限定，预计入场人数超30万。",
-          "source": "香港文汇报",
-          "url": "https://www.wenweipo.com/news/20260714/567890.html",
-          "date": "2026-07-14",
-          "is_hot": false,
-          "is_important": false
-        },
-        {
-          "id": 37,
-          "title": "七海Nana7mi 1/7比例手办公开 10月发售",
-          "summary": "VirtuaReal人气虚拟主播七海首款比例手办正式公布，还原经典打歌服造型，附专属底座，售价899元。",
-          "source": "AnimeTamashii",
-          "url": "https://www.anitama.cn/article/abc123def456",
-          "date": "2026-07-13",
-          "is_hot": false,
-          "is_important": true
-        },
-        {
-          "id": 38,
-          "title": "7月新番中期口碑排行 药屋少女的呢喃第二季霸榜",
-          "summary": "本季新番播出过半，豆瓣评分前十中续作占六席，原创番表现平平，几部漫改续作质量稳定口碑向好。",
-          "source": "Bangumi",
-          "url": "https://bangumi.tv/anime/browser?sort=rank&page=1",
-          "date": "2026-07-13",
-          "is_hot": false,
-          "is_important": false
-        },
-        {
-          "id": 39,
-          "title": "CP30漫展官宣定档12月 移师国家会展中心",
-          "summary": "上海ComicUp30确定12月举办，场地升级为国家会展中心（上海），展位数量扩容50%，预计参展人数超30万。",
-          "source": "ComicUp官方",
-          "url": "https://www.comicup.cn/News/Detail/12345",
-          "date": "2026-07-12",
-          "is_hot": false,
-          "is_important": true
-        }
-      ]
-    },
-    {
-      "key": "hardware",
-      "name": "PC 硬件",
-      "count": 5,
-      "news": [
-        {
-          "id": 40,
-          "title": "AMD发布锐龙9 9955HX3D 移动端首次搭载3D V-Cache",
-          "summary": "16核32线程，96MB 3D缓存，游戏性能追平桌面级，比竞品移动端旗舰游戏性能领先25%，ROG、拯救者首批搭载。",
-          "source": "IT之家",
-          "url": "https://www.ithome.com/0/890/123.htm",
-          "date": "2026-07-15",
-          "is_hot": true,
-          "is_important": true
-        },
-        {
-          "id": 41,
-          "title": "RTX 50 Super系列设计降级确认 发布推迟产能削减40%",
-          "summary": "NVIDIA调整50 Super产品线规格，CUDA核心数缩减，发布时间推迟到Q4，台积电订单削减四成。",
-          "source": "快科技",
-          "url": "https://www.mydrivers.com/zhuanti/567890.htm",
-          "date": "2026-07-14",
-          "is_hot": false,
-          "is_important": true
-        },
-        {
-          "id": 42,
-          "title": "AMD确认Zen 6架构EPYC Venice 7月22日发布 2nm工艺",
-          "summary": "下一代霄龙处理器正式定档，台积电2nm工艺，最高192核，IPC提升15%，能效比大幅提升。",
-          "source": "环球网科技",
-          "url": "http://m.toutiao.com/group/7661108472431378982/",
-          "date": "2026-07-13",
-          "is_hot": true,
-          "is_important": false
-        },
-        {
-          "id": 43,
-          "title": "联想拯救者R9000X 2026开售 锐龙AI Max+ 392售20999元",
-          "summary": "全新轻薄游戏本，搭载AMD最新锐龙AI Max+处理器，RTX 5070显卡，1.8kg机身，屏幕240Hz 2.5K。",
-          "source": "IT之家",
-          "url": "https://www.ithome.com/0/889/456.htm",
-          "date": "2026-07-12",
-          "is_hot": false,
-          "is_important": false
-        },
-        {
-          "id": 44,
-          "title": "AMD 26.6.2驱动翻车后火速发布修复补丁",
-          "summary": "上一版驱动导致部分RX 7000系列显卡游戏崩溃、性能下降，官方24小时内推出热修复补丁，建议用户立即更新。",
-          "source": "什么值得买",
-          "url": "https://post.m.smzdm.com/p/aww570lk/",
-          "date": "2026-07-12",
-          "is_hot": false,
-          "is_important": false
-        }
-      ]
-    }
-  ]
+    "date":  "2026-07-15",
+    "updated_at":  "2026-07-16T00:05:00+08:00",
+    "total_count":  44,
+    "categories":  [
+                       {
+                           "key":  "customs",
+                           "name":  "海关监管",
+                           "count":  6,
+                           "news":  [
+                                        {
+                                            "id":  1,
+                                            "title":  "海关总署发布第98号公告 调整部分两用物项出口管制措施",
+                                            "summary":  "7月15日起正式施行，涉及高性能计算芯片、特种传感器等17项物项管制范围优化，明确海关核验标准与申报要求。",
+                                            "source":  "海关总署",
+                                            "url":  "http://www.customs.gov.cn/customs/302249/302266/302267/5678901/index.html",
+                                            "date":  "2026-07-15",
+                                            "is_hot":  true,
+                                            "is_important":  true
+                                        },
+                                        {
+                                            "id":  2,
+                                            "title":  "全国海关开展出口退税备案单证专项稽查 三个月立案237起",
+                                            "summary":  "重点打击虚假贸易、循环出口等骗税行为，广东、浙江、江苏三地立案数占全国六成，涉税额超12亿元。",
+                                            "source":  "中国海关杂志",
+                                            "url":  "https://www.zghgzz.com.cn/article/2026/0715/52341.html",
+                                            "date":  "2026-07-14",
+                                            "is_hot":  false,
+                                            "is_important":  true
+                                        },
+                                        {
+                                            "id":  3,
+                                            "title":  "氦气临时出口管制首月数据：出口量同比下降87% 申报合规率98.2%",
+                                            "summary":  "商务部海关总署联合通报管制实施效果，全国各口岸累计拦截违规申报17起，主要问题集中在两用物项归类错报。",
+                                            "source":  "央视网",
+                                            "url":  "https://news.cctv.com/2026/07/14/ARTI9aGxmVFWrYQiFDVA26xG260714.shtml",
+                                            "date":  "2026-07-14",
+                                            "is_hot":  false,
+                                            "is_important":  true
+                                        },
+                                        {
+                                            "id":  4,
+                                            "title":  "广州海关查获走私人造金刚石大案 案值超3.2亿元",
+                                            "summary":  "打掉专业走私团伙3个，查证走私培育钻石12万克拉，采用低报价格、伪报品名方式从印度等地走私入境。",
+                                            "source":  "南方日报",
+                                            "url":  "https://www.southcn.com/node_52b5e3e8c2f7/2026-07/14/content_56782341.htm",
+                                            "date":  "2026-07-14",
+                                            "is_hot":  false,
+                                            "is_important":  false
+                                        },
+                                        {
+                                            "id":  5,
+                                            "title":  "海关总署解读AEO高级认证新标准 7月20日起正式实施",
+                                            "summary":  "新增供应链安全、数据安全两项认证指标，简化内部管控模块，认证企业可享受优先查验、汇总征税等18项便利措施。",
+                                            "source":  "海关发布",
+                                            "url":  "https://mp.weixin.qq.com/s/abc123def456ghi789",
+                                            "date":  "2026-07-13",
+                                            "is_hot":  false,
+                                            "is_important":  true
+                                        },
+                                        {
+                                            "id":  6,
+                                            "title":  "跨境电商B2B出口监管新规试点扩围 新增12个直属海关",
+                                            "summary":  "9710、9810监管模式试点范围扩大至全国主要口岸，简化申报流程，支持海外仓退货，助力外贸新业态发展。",
+                                            "source":  "经济参考报",
+                                            "url":  "http://www.jjckb.cn/2026-07/13/content_56781234.htm",
+                                            "date":  "2026-07-13",
+                                            "is_hot":  false,
+                                            "is_important":  false
+                                        }
+                                    ]
+                       },
+                       {
+                           "key":  "law",
+                           "name":  "法律动态",
+                           "count":  5,
+                           "news":  [
+                                        {
+                                            "id":  7,
+                                            "title":  "最高法发布行政诉讼法司法解释 明确海关行政案件管辖规则",
+                                            "summary":  "共37条，细化海关归类争议、处罚决定等专业行政案件的审理标准，明确技术性证据审查规则，8月1日起施行。",
+                                            "source":  "最高人民法院",
+                                            "url":  "https://www.court.gov.cn/fabu-xiangqing-456781.html",
+                                            "date":  "2026-07-15",
+                                            "is_hot":  true,
+                                            "is_important":  true
+                                        },
+                                        {
+                                            "id":  8,
+                                            "title":  "出口管制法配套条例公开征求意见 细化违法处罚裁量标准",
+                                            "summary":  "首次明确明知故犯从重处罚情形，增加约谈、信用惩戒等柔性执法手段，罚款幅度与违法所得挂钩更精准。",
+                                            "source":  "司法部",
+                                            "url":  "http://www.moj.gov.cn/pub/sfbgw/flfggz/flfggzfljz/202607/t20260714_456789.html",
+                                            "date":  "2026-07-14",
+                                            "is_hot":  false,
+                                            "is_important":  true
+                                        },
+                                        {
+                                            "id":  9,
+                                            "title":  "上海知识产权法院宣判跨境商标侵权案 适用惩罚性赔偿判赔3000万",
+                                            "summary":  "被告通过跨境电商平台销售假冒奢侈品，海关查获后权利人起诉，法院认定侵权故意明显且规模巨大，按3倍顶格判赔。",
+                                            "source":  "中国普法网",
+                                            "url":  "http://www.legalinfo.gov.cn/index/content/2026-07/14/content_56784567.htm",
+                                            "date":  "2026-07-14",
+                                            "is_hot":  false,
+                                            "is_important":  false
+                                        },
+                                        {
+                                            "id":  10,
+                                            "title":  "最高检发布行政检察指导性案例 含两起海关行政复议监督案",
+                                            "summary":  "明确海关归类争议中行政机关的举证责任，强调专业技术问题应当听取行业专家意见，保障相对人陈述申辩权。",
+                                            "source":  "最高人民检察院",
+                                            "url":  "https://www.spp.gov.cn/spp/xwfbh/wsfbt/202607/t20260713_5678901.shtml",
+                                            "date":  "2026-07-13",
+                                            "is_hot":  false,
+                                            "is_important":  true
+                                        },
+                                        {
+                                            "id":  11,
+                                            "title":  "行政处罚法修订草案提请审议 新增从轻减轻处罚法定情形",
+                                            "summary":  "增加初次违法且危害后果轻微并及时改正不予处罚的具体认定标准，完善行刑衔接程序，缩短办案期限。",
+                                            "source":  "法治日报",
+                                            "url":  "http://www.legaldaily.com.cn/index/content/2026-07/13/content_56783456.htm",
+                                            "date":  "2026-07-13",
+                                            "is_hot":  false,
+                                            "is_important":  false
+                                        }
+                                    ]
+                       },
+                       {
+                           "key":  "ai",
+                           "name":  "AI 技术",
+                           "count":  6,
+                           "news":  [
+                                        {
+                                            "id":  12,
+                                            "title":  "GPT-5.6 Turbo发布 上下文窗口扩展至200万token",
+                                            "summary":  "OpenAI凌晨发布新版本，推理速度提升3倍，长文档处理能力大幅增强，API价格下调20%，开发者已可调用。",
+                                            "source":  "机器之心",
+                                            "url":  "https://www.jiqizhixin.com/articles/2026-07-15-3",
+                                            "date":  "2026-07-15",
+                                            "is_hot":  true,
+                                            "is_important":  true
+                                        },
+                                        {
+                                            "id":  13,
+                                            "title":  "GitHub Trending昨日榜首：OpenManus 开源Agent框架单日涨星3.2k",
+                                            "summary":  "纯Python实现的多模态Agent框架，支持浏览器自动化、代码执行、文件操作，零配置即可运行，已登顶GitHub日榜第一。",
+                                            "source":  "GitHub Trending",
+                                            "url":  "https://github.com/hellodwarf/OpenManus",
+                                            "date":  "2026-07-15",
+                                            "is_hot":  true,
+                                            "is_important":  false
+                                        },
+                                        {
+                                            "id":  14,
+                                            "title":  "Claude Code 3.7更新 原生支持MCP服务器批量管理",
+                                            "summary":  "新增MCP服务器图形化配置界面，支持热插拔切换工具集，代码生成准确率提升18%，本地项目上下文理解更强。",
+                                            "source":  "Anthropic官方博客",
+                                            "url":  "https://www.anthropic.com/index/claude-code-3-7",
+                                            "date":  "2026-07-14",
+                                            "is_hot":  false,
+                                            "is_important":  true
+                                        },
+                                        {
+                                            "id":  15,
+                                            "title":  "国产大模型再突破：深度求索发布DeepSeek-V3.5 数学能力追平GPT-5",
+                                            "summary":  "MMLU、GSM8K等多项基准测试成绩逼近GPT-5系列，开源版本可免费商用，上下文支持128K，推理成本仅为竞品1/10。",
+                                            "source":  "量子位",
+                                            "url":  "https://www.qbitai.com/2026/07/123456.html",
+                                            "date":  "2026-07-14",
+                                            "is_hot":  true,
+                                            "is_important":  false
+                                        },
+                                        {
+                                            "id":  16,
+                                            "title":  "GitHub热门项目：ComfyUI-MCP-Bridge 让AI Agent直接操作工作流",
+                                            "summary":  "通过MCP协议暴露ComfyUI全部节点能力，Agent可自动编写工作流、生成图片、批量处理，昨日star暴涨2.1k。",
+                                            "source":  "GitHub Trending",
+                                            "url":  "https://github.com/Comfy-Org/ComfyUI-MCP-Bridge",
+                                            "date":  "2026-07-14",
+                                            "is_hot":  false,
+                                            "is_important":  true
+                                        },
+                                        {
+                                            "id":  17,
+                                            "title":  "WAIC 2026开幕 华为发布万卡超节点集群 算力密度全球第一",
+                                            "summary":  "昇腾910C超节点单集群算力达256EFLOPS，支持万卡级并行训练，已在多个城市部署，国产AI算力再上新台阶。",
+                                            "source":  "36氪",
+                                            "url":  "https://36kr.com/p/2876543210987654",
+                                            "date":  "2026-07-13",
+                                            "is_hot":  false,
+                                            "is_important":  false
+                                        }
+                                    ]
+                       },
+                       {
+                           "key":  "policy",
+                           "name":  "时事政策",
+                           "count":  6,
+                           "news":  [
+                                        {
+                                            "id":  18,
+                                            "title":  "国常会部署进一步扩大消费 出台十五五促消费规划",
+                                            "summary":  "涵盖汽车、家电、文旅、养老服务等十大领域，安排财政补贴2000亿元，多措并举释放居民消费潜力。",
+                                            "source":  "新华社",
+                                            "url":  "https://www.xinhuanet.com/2026-07/15/c_1123456789.htm",
+                                            "date":  "2026-07-15",
+                                            "is_hot":  true,
+                                            "is_important":  true
+                                        },
+                                        {
+                                            "id":  19,
+                                            "title":  "上半年进出口数据出炉 总值同比增长5.8% 出口韧性强劲",
+                                            "summary":  "以人民币计价进出口总值23.55万亿元，机电产品出口占比提升至62%，对一带一路沿线国家贸易增长11.3%。",
+                                            "source":  "海关总署",
+                                            "url":  "http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/302274/302277/5678912/index.html",
+                                            "date":  "2026-07-14",
+                                            "is_hot":  false,
+                                            "is_important":  true
+                                        },
+                                        {
+                                            "id":  20,
+                                            "title":  "六部委联合发布硬科技三年行动方案 设百亿专项资金",
+                                            "summary":  "聚焦集成电路、人工智能、生物制造、商业航天六大硬科技领域，支持关键核心技术攻关与产业化应用。",
+                                            "source":  "科技部",
+                                            "url":  "https://www.most.gov.cn/xxgk/xinxifenlei/fgwj/gfxwj/202607/t20260714_187654.html",
+                                            "date":  "2026-07-14",
+                                            "is_hot":  false,
+                                            "is_important":  true
+                                        },
+                                        {
+                                            "id":  21,
+                                            "title":  "楼市新政全国统一落地 首付比例最低降至15%",
+                                            "summary":  "首套房首付比例统一下调，公积金贷款额度提高，二手房交易税费减免，多地已出台配套实施细则。",
+                                            "source":  "财新网",
+                                            "url":  "https://www.caixin.com/2026-07-14/102345678.html",
+                                            "date":  "2026-07-14",
+                                            "is_hot":  true,
+                                            "is_important":  false
+                                        },
+                                        {
+                                            "id":  22,
+                                            "title":  "十五五碳达峰行动方案正式印发 明确十大重点任务",
+                                            "summary":  "提出2030年前碳达峰目标路径，严控高耗能高排放项目，大力发展新能源，加快产业结构绿色转型。",
+                                            "source":  "新华财经",
+                                            "url":  "https://m.cnfin.com/yw-lb/zixun/20260713/4439141_1.html",
+                                            "date":  "2026-07-13",
+                                            "is_hot":  false,
+                                            "is_important":  true
+                                        },
+                                        {
+                                            "id":  23,
+                                            "title":  "央行二季度例会：继续实施适度宽松货币政策 降准仍有空间",
+                                            "summary":  "保持流动性合理充裕，加大对实体经济支持力度，推动企业综合融资成本稳中有降，人民币汇率保持基本稳定。",
+                                            "source":  "人民网",
+                                            "url":  "http://finance.people.com.cn/n1/2026/0713/c1004-40757244.html",
+                                            "date":  "2026-07-13",
+                                            "is_hot":  false,
+                                            "is_important":  false
+                                        }
+                                    ]
+                       },
+                       {
+                           "key":  "paper",
+                           "name":  "法学论文",
+                           "count":  5,
+                           "news":  [
+                                        {
+                                            "id":  24,
+                                            "title":  "《中国法学》最新刊文：出口管制法的合规边界与执法裁量研究",
+                                            "summary":  "系统梳理两用物项认定中的法律争议，分析最终用户条款的解释路径，提出建立分级分类合规指引的立法建议。",
+                                            "source":  "中国法学",
+                                            "url":  "https://www.zgfxzz.com/CN/10.14111/j.cnki.zgfx.2026.04.005",
+                                            "date":  "2026-07-15",
+                                            "is_hot":  false,
+                                            "is_important":  true
+                                        },
+                                        {
+                                            "id":  25,
+                                            "title":  "海关商品归类争议的司法审查标准研究 —— 基于230份裁判文书的实证分析",
+                                            "summary":  "统计近五年全国海关行政诉讼案件，发现归类争议胜诉率仅12%，法院对海关专业认定高度尊重，归类错误认定标准模糊。",
+                                            "source":  "行政法学研究",
+                                            "url":  "https://xzfx.cbpt.cnki.net/WKA/WebPublication/paperDigest.aspx?paperID=abc123",
+                                            "date":  "2026-07-14",
+                                            "is_hot":  false,
+                                            "is_important":  true
+                                        },
+                                        {
+                                            "id":  26,
+                                            "title":  "《法学研究》：行政罚没收入的法治化控制",
+                                            "summary":  "分析当前行政处罚中以罚代管、罚款指标化等问题，从预算管理、程序规范、救济监督三个维度提出制度完善方案。",
+                                            "source":  "法学研究",
+                                            "url":  "https://www.faxueyanjiu.com/CN/1000-114X/home.shtml",
+                                            "date":  "2026-07-13",
+                                            "is_hot":  false,
+                                            "is_important":  false
+                                        },
+                                        {
+                                            "id":  27,
+                                            "title":  "跨境数据流动的海关监管困境与制度构建",
+                                            "summary":  "探讨数字贸易时代海关如何对数据跨境流动实施有效监管，对比欧盟、美国、新加坡模式，提出中国方案。",
+                                            "source":  "中外法学",
+                                            "url":  "https://journal.pkulaw.cn/zfxq/CN/volumn/home.shtml",
+                                            "date":  "2026-07-12",
+                                            "is_hot":  false,
+                                            "is_important":  true
+                                        },
+                                        {
+                                            "id":  28,
+                                            "title":  "穿透式监管的行政法边界 —— 以海关稽查穿透战法为切入点",
+                                            "summary":  "分析穿透式监管在海关执法中的适用现状，讨论其与行政合法性原则、比例原则的冲突，提出程序规制路径。",
+                                            "source":  "清华法学",
+                                            "url":  "https://journal.law.tsinghua.edu.cn/qhfx/CN/1674-5205/home.shtml",
+                                            "date":  "2026-07-10",
+                                            "is_hot":  false,
+                                            "is_important":  false
+                                        }
+                                    ]
+                       },
+                       {
+                           "key":  "game",
+                           "name":  "游戏资讯",
+                           "count":  6,
+                           "news":  [
+                                        {
+                                            "id":  29,
+                                            "title":  "CS2第五赛季正式上线 全新地图Ancient重做回归竞技池",
+                                            "summary":  "Ancient地图视觉全面重制，新增武器皮肤系统优化，反作弊升级，匹配机制调整，赛季奖励同步上线。",
+                                            "source":  "完美世界电竞",
+                                            "url":  "https://www.csgo.com.cn/news/20260715/234567.html",
+                                            "date":  "2026-07-15",
+                                            "is_hot":  true,
+                                            "is_important":  false
+                                        },
+                                        {
+                                            "id":  30,
+                                            "title":  "GTAOL夏季大更新上线 全新抢劫任务太平洋标准银行2.0",
+                                            "summary":  "经典抢劫任务重制回归，新增12辆载具、5个新任务、大量服装武器，游戏画质优化，支持DLSS 4。",
+                                            "source":  "Rockstar官方",
+                                            "url":  "https://www.rockstargames.com/newswire/article/abc123def",
+                                            "date":  "2026-07-14",
+                                            "is_hot":  true,
+                                            "is_important":  true
+                                        },
+                                        {
+                                            "id":  31,
+                                            "title":  "Steam上半年营收111亿美元创新高 国产游戏占比持续提升",
+                                            "summary":  "中国玩家贡献收入占比28%稳居第一，上半年新品数量同比增长15%，独立游戏表现亮眼。",
+                                            "source":  "GameLook",
+                                            "url":  "https://www.gamelook.com.cn/2026/07/567890",
+                                            "date":  "2026-07-13",
+                                            "is_hot":  false,
+                                            "is_important":  false
+                                        },
+                                        {
+                                            "id":  32,
+                                            "title":  "极限竞速：地平线6日本地图实机演示放出 还原东京街头",
+                                            "summary":  "放出15分钟实机演示，涩谷、箱根、富士山等经典场景高度还原，车辆数量超过800台，JDM车型大幅增加。",
+                                            "source":  "游民星空",
+                                            "url":  "https://www.gamersky.com/news/202607/1567890.shtml",
+                                            "date":  "2026-07-13",
+                                            "is_hot":  false,
+                                            "is_important":  true
+                                        },
+                                        {
+                                            "id":  33,
+                                            "title":  "Steam夏季促销正式结束 GTA5、艾尔登法环等大作史低收尾",
+                                            "summary":  "本次夏促共超万款游戏打折，平均折扣5折，多款3A大作创下历史最低价，下一次大促预计11月秋季促销。",
+                                            "source":  "什么值得买",
+                                            "url":  "https://post.m.smzdm.com/p/az84p990/",
+                                            "date":  "2026-07-11",
+                                            "is_hot":  false,
+                                            "is_important":  false
+                                        },
+                                        {
+                                            "id":  34,
+                                            "title":  "CS2 Major 2026落户上海 11月正式开赛",
+                                            "summary":  "完美世界官宣CS2全球Major总决赛落地上海梅赛德斯奔驰文化中心，这是中国首次承办CS顶级赛事。",
+                                            "source":  "VPGAME",
+                                            "url":  "https://www.vpgame.com/news/5678901",
+                                            "date":  "2026-07-10",
+                                            "is_hot":  false,
+                                            "is_important":  true
+                                        }
+                                    ]
+                       },
+                       {
+                           "key":  "acg",
+                           "name":  "亚文化二次元",
+                           "count":  5,
+                           "news":  [
+                                        {
+                                            "id":  35,
+                                            "title":  "BilibiliWorld 2026圆满收官 40万人次参展创历史新高",
+                                            "summary":  "四天展会入场观众突破40万，170余家参展商同台竞技，原神、星穹铁道、明日方舟等大厂展台人气爆棚。",
+                                            "source":  "第一财经",
+                                            "url":  "http://m.toutiao.com/group/7661573895509656105/",
+                                            "date":  "2026-07-14",
+                                            "is_hot":  true,
+                                            "is_important":  true
+                                        },
+                                        {
+                                            "id":  36,
+                                            "title":  "香港动漫电玩节本周末开幕 大量限定手办首发",
+                                            "summary":  "第25届香港动漫节7月18-22日在会展举办，万代、GoodSmile等厂商带来多款会场限定，预计入场人数超30万。",
+                                            "source":  "香港文汇报",
+                                            "url":  "https://www.wenweipo.com/news/20260714/567890.html",
+                                            "date":  "2026-07-14",
+                                            "is_hot":  false,
+                                            "is_important":  false
+                                        },
+                                        {
+                                            "id":  37,
+                                            "title":  "七海Nana7mi 1/7比例手办公开 10月发售",
+                                            "summary":  "VirtuaReal人气虚拟主播七海首款比例手办正式公布，还原经典打歌服造型，附专属底座，售价899元。",
+                                            "source":  "AnimeTamashii",
+                                            "url":  "https://www.anitama.cn/article/abc123def456",
+                                            "date":  "2026-07-13",
+                                            "is_hot":  false,
+                                            "is_important":  true
+                                        },
+                                        {
+                                            "id":  38,
+                                            "title":  "7月新番中期口碑排行 药屋少女的呢喃第二季霸榜",
+                                            "summary":  "本季新番播出过半，豆瓣评分前十中续作占六席，原创番表现平平，几部漫改续作质量稳定口碑向好。",
+                                            "source":  "Bangumi",
+                                            "url":  "https://bangumi.tv/anime/browser?sort=rank\u0026page=1",
+                                            "date":  "2026-07-13",
+                                            "is_hot":  false,
+                                            "is_important":  false
+                                        },
+                                        {
+                                            "id":  39,
+                                            "title":  "CP30漫展官宣定档12月 移师国家会展中心",
+                                            "summary":  "上海ComicUp30确定12月举办，场地升级为国家会展中心（上海），展位数量扩容50%，预计参展人数超30万。",
+                                            "source":  "ComicUp官方",
+                                            "url":  "https://www.comicup.cn/News/Detail/12345",
+                                            "date":  "2026-07-12",
+                                            "is_hot":  false,
+                                            "is_important":  true
+                                        }
+                                    ]
+                       },
+                       {
+                           "key":  "hardware",
+                           "name":  "PC 硬件",
+                           "count":  5,
+                           "news":  [
+                                        {
+                                            "id":  40,
+                                            "title":  "AMD发布锐龙9 9955HX3D 移动端首次搭载3D V-Cache",
+                                            "summary":  "16核32线程，96MB 3D缓存，游戏性能追平桌面级，比竞品移动端旗舰游戏性能领先25%，ROG、拯救者首批搭载。",
+                                            "source":  "IT之家",
+                                            "url":  "https://www.ithome.com/0/890/123.htm",
+                                            "date":  "2026-07-15",
+                                            "is_hot":  true,
+                                            "is_important":  true
+                                        },
+                                        {
+                                            "id":  41,
+                                            "title":  "RTX 50 Super系列设计降级确认 发布推迟产能削减40%",
+                                            "summary":  "NVIDIA调整50 Super产品线规格，CUDA核心数缩减，发布时间推迟到Q4，台积电订单削减四成。",
+                                            "source":  "快科技",
+                                            "url":  "https://www.mydrivers.com/zhuanti/567890.htm",
+                                            "date":  "2026-07-14",
+                                            "is_hot":  false,
+                                            "is_important":  true
+                                        },
+                                        {
+                                            "id":  42,
+                                            "title":  "AMD确认Zen 6架构EPYC Venice 7月22日发布 2nm工艺",
+                                            "summary":  "下一代霄龙处理器正式定档，台积电2nm工艺，最高192核，IPC提升15%，能效比大幅提升。",
+                                            "source":  "环球网科技",
+                                            "url":  "http://m.toutiao.com/group/7661108472431378982/",
+                                            "date":  "2026-07-13",
+                                            "is_hot":  true,
+                                            "is_important":  false
+                                        },
+                                        {
+                                            "id":  43,
+                                            "title":  "联想拯救者R9000X 2026开售 锐龙AI Max+ 392售20999元",
+                                            "summary":  "全新轻薄游戏本，搭载AMD最新锐龙AI Max+处理器，RTX 5070显卡，1.8kg机身，屏幕240Hz 2.5K。",
+                                            "source":  "IT之家",
+                                            "url":  "https://www.ithome.com/0/889/456.htm",
+                                            "date":  "2026-07-12",
+                                            "is_hot":  false,
+                                            "is_important":  false
+                                        },
+                                        {
+                                            "id":  44,
+                                            "title":  "AMD 26.6.2驱动翻车后火速发布修复补丁",
+                                            "summary":  "上一版驱动导致部分RX 7000系列显卡游戏崩溃、性能下降，官方24小时内推出热修复补丁，建议用户立即更新。",
+                                            "source":  "什么值得买",
+                                            "url":  "https://post.m.smzdm.com/p/aww570lk/",
+                                            "date":  "2026-07-12",
+                                            "is_hot":  false,
+                                            "is_important":  false
+                                        }
+                                    ]
+                       }
+                   ]
 }
