@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-15",
+  "updated_at": "2026-07-15T23:30:00+08:00",
+  "total_count": 2,
+  "categories": [
+    {
+      "key": "customs",
+      "name": "海关监管",
+      "count": 1,
+      "news": [
+        {
+          "id": 1,
+          "title": "测试中文标题",
+          "summary": "测试中文摘要内容",
+          "source": "测试来源",
+          "url": "https://example.com",
+          "date": "2026-07-15",
+          "is_hot": true,
+          "is_important": true
+        }
+      ]
+    }
+  ]
+}
