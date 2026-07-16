@@ -1,10 +1,10 @@
 ﻿{
   "meta": {
-    "date": "2026-07-15",
-    "dateDisplay": "7月15日",
-    "version": "v20260715_real",
-    "totalNews": 18,
-    "generatedAt": "2026-07-16T00:50:00",
+    "date": "2026-07-16",
+    "dateDisplay": "7月16日",
+    "version": "v20260716",
+    "totalNews": 24,
+    "generatedAt": "2026-07-16T08:45:00",
     "source": "rss",
     "model": "豆包"
   },
@@ -21,29 +21,65 @@
     {
       "id": 1,
       "category": "customs",
-      "title": "商务部 海关总署发布2026年第29号公告 对氦气实施临时禁止出口管理",
-      "summary": "依据《对外贸易法》，决定对氦气（海关商品编号2804290010）实施临时禁止出口管理，自公布之日起执行。",
+      "title": "海关总署第97号公告 出口硫酸铵新增法检 7月16日起实施",
+      "summary": "对硫酸铵等2个10位海关商品编号增设监管条件B，实施出口法定检验，需办理出境货物通关单方可报关。",
+      "source": "海关总署",
+      "time": "2026-07-16",
+      "url": "http://m.toutiao.com/group/7662206512894427658/",
+      "isHot": true,
+      "isImportant": true,
+      "guid": "a1b2c3d4e501"
+    },
+    {
+      "id": 2,
+      "category": "customs",
+      "title": "海关总署第100号公告 进口缅甸食用水生动物检疫要求发布",
+      "summary": "明确输华食用水生动物检验检疫要求，不合格产品将退回或销毁，7月14日发布实施。",
+      "source": "海关发布",
+      "time": "2026-07-15",
+      "url": "http://m.toutiao.com/group/7662734797319488040/",
+      "isHot": false,
+      "isImportant": false,
+      "guid": "b2c3d4e5f602"
+    },
+    {
+      "id": 3,
+      "category": "customs",
+      "title": "海关总署 农业农村部第99号公告 防止洪都拉斯高致病性禽流感传入",
+      "summary": "禁止直接或间接从洪都拉斯输入禽类及其相关产品，禁止寄递或携带来自洪都拉斯的禽类产品入境。",
+      "source": "海关总署",
+      "time": "2026-07-10",
+      "url": "http://m.toutiao.com/group/7662682071881564681/",
+      "isHot": false,
+      "isImportant": true,
+      "guid": "c3d4e5f6a703"
+    },
+    {
+      "id": 4,
+      "category": "customs",
+      "title": "商务部 海关总署第29号公告 对氦气实施临时禁止出口管理",
+      "summary": "依据《对外贸易法》，对氦气（海关商品编号2804290010）实施临时禁止出口管理，自公布之日起执行。",
       "source": "海关发布",
       "time": "2026-07-10",
       "url": "http://m.toutiao.com/group/7660848405345862180/",
       "isHot": true,
       "isImportant": true,
-      "guid": "a1b2c3d4e5f6"
+      "guid": "d4e5f6a7b804"
     },
     {
-      "id": 2,
+      "id": 5,
       "category": "customs",
       "title": "海关总署第77号公告生效 机床类设备出口申报从严管控",
-      "summary": "6月30日起施行，凡出口8454-8465项下折弯机、车床、铣床、激光加工设备等，全流程须核验是否涉及两用物项管制。",
+      "summary": "6月30日起施行，8454-8465项下折弯机、车床、铣床、激光加工设备等全流程核验两用物项管制。",
       "source": "海关总署",
       "time": "2026-06-30",
       "url": "https://k.sina.cn/article_7880068235_1d5b04c8b019027i0k.html",
       "isHot": false,
       "isImportant": true,
-      "guid": "b2c3d4e5f6a7"
+      "guid": "e5f6a7b8c905"
     },
     {
-      "id": 3,
+      "id": 6,
       "category": "customs",
       "title": "海关总署第78号公告 规范无人机及相关物项出口申报",
       "summary": "明确无人驾驶航空器、飞艇及相关设备部件、民用反无人机系统等出口申报要求，6月30日起施行。",
@@ -52,22 +88,10 @@
       "url": "http://www.customs.gov.cn/customs/2026-06/10/article_2026061008235713068.html",
       "isHot": false,
       "isImportant": true,
-      "guid": "c3d4e5f6a7b8"
+      "guid": "f6a7b8c9d006"
     },
     {
-      "id": 4,
-      "category": "customs",
-      "title": "海关总署 公安部第88号公告 进口机动车两证合一改革全面推广",
-      "summary": "《货物进口证明书》与《进口机动车辆随车检验单》两证合一，提升通关效率，促进汽车产业健康发展。",
-      "source": "海关总署",
-      "time": "2026-06-15",
-      "url": "http://qgjcs.customs.gov.cn/customs/attachDir/2026/06/%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%20%E5%85%AC%E5%AE%89%E9%83%A8%E5%85%B3%E4%BA%8E%E5%85%A8%E9%9D%A2%E6%8E%A8%E5%B9%BF%E3%80%8A%E8%B4%A7%E7%89%A9%E8%BF%9B%E5%8F%A3%E8%AF%81%E6%98%8E%E4%B9%A6%EF%BC%88%E6%B1%BD%E8%BD%A6%E3%80%81%E6%91%A9%E6%89%98%E8%BD%A6%EF%BC%89%E3%80%8B%E5%92%8C%E3%80%8A%E8%BF%9B%E5%8F%A3%E6%9C%BA%E5%8A%A8%E8%BD%A6%E8%BE%86%E9%9A%8F%E8%BD%A6%E6%A3%80%E9%AA%8C%E5%8D%95%E3%80%8B%E2%80%9C%E4%B8%A4%E8%AF%81%E5%90%88%E4%B8%80%E2%80%9D.pdf",
-      "isHot": false,
-      "isImportant": false,
-      "guid": "d4e5f6a7b8c9"
-    },
-    {
-      "id": 5,
+      "id": 7,
       "category": "legal",
       "title": "最高法发布行政诉讼起诉期限司法解释 5月1日起施行",
       "summary": "法释〔2026〕3号，重新划定行政诉讼起诉期限起算标准，统一全国法院裁判口径。",
@@ -76,10 +100,10 @@
       "url": "https://www.dtdjzx.gov.cn/web/dtdjzx/sifa/116132.html",
       "isHot": false,
       "isImportant": true,
-      "guid": "e5f6a7b8c9d0"
+      "guid": "a7b8c9d0e107"
     },
     {
-      "id": 6,
+      "id": 8,
       "category": "legal",
       "title": "最高法发布行政诉讼起诉期限审查规则适用典型案例",
       "summary": "发布第四批示范文本应用典型案例，统一行政审判标准，提升案件质效。",
@@ -88,130 +112,142 @@
       "url": "https://www.court.gov.cn/zixun/gengduo/104.html?theme=dark",
       "isHot": false,
       "isImportant": false,
-      "guid": "f6a7b8c9d0e1"
+      "guid": "b8c9d0e1f208"
     },
     {
-      "id": 7,
+      "id": 9,
+      "category": "ai",
+      "title": "AI拟人化新规正式施行 情感陪伴虚拟助手纳入监管",
+      "summary": "《人工智能拟人化互动服务管理暂行办法》7月15日施行，情感陪伴、智能客服、虚拟助手等纳入正式治理轨道。",
+      "source": "今日头条",
+      "time": "2026-07-15",
+      "url": "http://m.toutiao.com/group/7662816374019981839/",
+      "isHot": true,
+      "isImportant": true,
+      "guid": "c9d0e1f2a309"
+    },
+    {
+      "id": 10,
+      "category": "ai",
+      "title": "WAIC 2026世界人工智能大会7月17日上海开幕",
+      "summary": "108款芯片、261款大模型亮相，9位图灵奖得主开讲，华为展示Atlas 950超节点真机。",
+      "source": "36氪",
+      "time": "2026-07-15",
+      "url": "https://36kr.com/p/3896827901200259",
+      "isHot": true,
+      "isImportant": false,
+      "guid": "d0e1f2a3b410"
+    },
+    {
+      "id": 11,
+      "category": "ai",
+      "title": "DeepSeek V4全量上线 首创算力峰谷分时定价",
+      "summary": "Pro版总参数1.6万亿，推理仅激活490亿；工作日高峰低谷差价计费，颠覆大模型计费模式。",
+      "source": "今日头条",
+      "time": "2026-07-15",
+      "url": "http://m.toutiao.com/group/7662737957443977764/",
+      "isHot": false,
+      "isImportant": true,
+      "guid": "e1f2a3b4c511"
+    },
+    {
+      "id": 12,
+      "category": "ai",
+      "title": "国行Apple智能牵手通义千问 本土化AI正式落地",
+      "summary": "国行Apple智能通过网信办备案，阿里巴巴确认通义千问全面集成，告别两年功能阉割状态。",
+      "source": "今日头条",
+      "time": "2026-07-15",
+      "url": "http://m.toutiao.com/group/7662894857165341203/",
+      "isHot": true,
+      "isImportant": false,
+      "guid": "f2a3b4c5d612"
+    },
+    {
+      "id": 13,
       "category": "ai",
       "title": "OpenAI发布GPT-5.6系列模型 旗舰Sol正式开放使用",
-      "summary": "7月9日全面开放，包含旗舰Sol、均衡型Terra和低成本Luna三个版本，支持Ultra模式并行4个AI代理。",
+      "summary": "包含旗舰Sol、均衡型Terra和低成本Luna三个版本，支持Ultra模式并行4个AI代理。",
       "source": "36氪",
       "time": "2026-07-10",
       "url": "https://36kr.com/newsflashes/3889005901249030",
       "isHot": true,
       "isImportant": true,
-      "guid": "a7b8c9d0e1f2"
+      "guid": "a3b4c5d6e713"
     },
     {
-      "id": 8,
-      "category": "ai",
-      "title": "蚂蚁开源LingBot-World 2.0 实时交互式AI世界模型",
-      "summary": "小时级无限生成的交互式世界模型，支持玩家实时操作影响世界生成，7月开源发布引发关注。",
-      "source": "今日头条",
-      "time": "2026-07-12",
-      "url": "http://m.toutiao.com/group/7661469403694842422/",
-      "isHot": true,
-      "isImportant": false,
-      "guid": "b8c9d0e1f2a3"
-    },
-    {
-      "id": 9,
-      "category": "ai",
-      "title": "字节跳动开源DeerFlow SuperAgent框架 GitHub 75.2k stars",
-      "summary": "面向长周期任务的Agent编排框架，支持连续数天执行复杂任务，MIT协议开源。",
-      "source": "CSDN",
-      "time": "2026-07-13",
-      "url": "https://blog.csdn.net/2601_96492213/article/details/162625260",
-      "isHot": false,
-      "isImportant": true,
-      "guid": "c9d0e1f2a3b4"
-    },
-    {
-      "id": 10,
+      "id": 14,
       "category": "policy",
-      "title": "7月10日国常会首次单独专题部署数字中国建设",
-      "summary": "标志数字中国建设从试点摸索进入全面落地攻坚时代，集中部署标准定型与督办机制。",
+      "title": "央行：继续实施适度宽松货币政策 加大逆周期调节",
+      "summary": "邹澜副行长表示，把握好货币政策力度节奏时机，着力扩大内需，支持十五五良好开局。",
+      "source": "中国证券报",
+      "time": "2026-07-15",
+      "url": "http://m.toutiao.com/group/7662902264268374534/",
+      "isHot": true,
+      "isImportant": true,
+      "guid": "b4c5d6e7f814"
+    },
+    {
+      "id": 15,
+      "category": "policy",
+      "title": "国常会专题部署数字中国 算力纳入国家级新基建",
+      "summary": "算力网、新一代通信网纳入全国六张网核心基建，与水电路网同等定位，进入全面落地攻坚期。",
       "source": "新华网",
       "time": "2026-07-10",
       "url": "http://m.toutiao.com/group/7662679971685384719/",
       "isHot": true,
       "isImportant": true,
-      "guid": "d0e1f2a3b4c5"
+      "guid": "c5d6e7f8a915"
     },
     {
-      "id": 11,
-      "category": "policy",
-      "title": "国常会审议通过《全民健身计划(2026-2030年)》",
-      "summary": "多渠道增加健身场地供给，发展校园体育与群众赛事，推动健康产业创新发展。",
-      "source": "中国政府网",
-      "time": "2026-07-10",
-      "url": "https://english.news.cn/20260710/e3dd77dbc9bd40d089e3f76c38cc846f/c.html",
-      "isHot": false,
-      "isImportant": false,
-      "guid": "e1f2a3b4c5d6"
-    },
-    {
-      "id": 12,
+      "id": 16,
       "category": "policy",
       "title": "国常会部署补齐流通基础设施短板 建设现代流通体系",
-      "summary": "提升流通治理能力，完善规则标准，发展新业态新模式，打通多式联运堵点卡点。",
+      "summary": "大力发展多式联运，降低流通成本，完善规则标准体系，发展新业态新模式新场景。",
       "source": "新华网",
       "time": "2026-07-13",
-      "url": "http://www.xinhuanet.com/",
+      "url": "http://m.toutiao.com/group/7662471091717194274/",
       "isHot": false,
       "isImportant": true,
-      "guid": "f2a3b4c5d6e7"
+      "guid": "d6e7f8a9b016"
     },
     {
-      "id": 13,
+      "id": 17,
       "category": "game",
       "title": "CS2 7月15日更新 4张社区地图同步升级",
-      "summary": "Fachwerk、Boulder、Shelter、El Dorado四张地图更新至工坊最新版本，同时修复多项稳定性问题。",
+      "summary": "Fachwerk、Boulder、Shelter、El Dorado四张地图更新至工坊最新版本，修复多项稳定性问题。",
       "source": "Valve官方",
       "time": "2026-07-15",
       "url": "https://www.offstage.gg/cs2/news/counter-strike-2-update-from-july-15-2026-community-map-updates-and-game-stability-improvements",
       "isHot": true,
       "isImportant": false,
-      "guid": "a3b4c5d6e7f8"
+      "guid": "e7f8a9b0c117"
     },
     {
-      "id": 14,
+      "id": 18,
       "category": "game",
       "title": "CS2第五赛季正式上线 Cache时隔七年回归竞技池",
-      "summary": "Premier Season 5开启，经典地图Cache回归Active Duty，炸弹伤害系统全面重做，新增武库收藏品。",
+      "summary": "Premier Season 5开启，经典地图Cache回归Active Duty，炸弹伤害系统全面重做。",
       "source": "17173",
       "time": "2026-07-09",
       "url": "http://news.17173.com/content/07092026/120843528.shtml",
       "isHot": true,
       "isImportant": true,
-      "guid": "b4c5d6e7f8a9"
+      "guid": "f8a9b0c1d218"
     },
     {
-      "id": 15,
-      "category": "game",
-      "title": "GTAOL夏季DLC预热 独立日活动进行中",
-      "summary": "夏季大型DLC 9月上线，预热活动期间多款载具史诗折扣，三倍奖励任务同步开放。",
-      "source": "Rockstar",
-      "time": "2026-07-02",
-      "url": "https://www.iesdouyin.com/share/video/7657796785133341992",
-      "isHot": false,
-      "isImportant": false,
-      "guid": "c5d6e7f8a9b0"
-    },
-    {
-      "id": 16,
+      "id": 19,
       "category": "hardware",
       "title": "AMD确认Zen 6 EPYC Venice 7月22日发布 台积电2nm工艺",
-      "summary": "CTO Mark Papermaster正式确认，全球首款2nm高性能计算CPU，IPC提升约15%，能效比大幅提升。",
+      "summary": "全球首款2nm高性能计算CPU，IPC提升约15%，能效比大幅提升，Advancing AI活动亮相。",
       "source": "电子工程专辑",
       "time": "2026-07-10",
       "url": "https://www.eet-china.com/mp/a508943.html",
       "isHot": true,
       "isImportant": true,
-      "guid": "d6e7f8a9b0c1"
+      "guid": "a9b0c1d2e319"
     },
     {
-      "id": 17,
+      "id": 20,
       "category": "hardware",
       "title": "AMD锐龙9 9950X3D2发布 双CCD堆叠3D V-Cache",
       "summary": "16核32线程，L2+L3总缓存208MB，AMD首款双CCD均堆叠3D缓存的消费级处理器。",
@@ -220,10 +256,10 @@
       "url": "https://www.amd.com/zh-cn/blogs/2026/amd-bw-2026-passion-driven-gaming-ai.html",
       "isHot": false,
       "isImportant": true,
-      "guid": "e7f8a9b0c1d2"
+      "guid": "b0c1d2e3f420"
     },
     {
-      "id": 18,
+      "id": 21,
       "category": "hardware",
       "title": "NVIDIA发布RTX Spark芯片 整合RTX 5070 GPU与128GB统一内存",
       "summary": "Grace CPU + Blackwell GPU融合架构，TSMC 3nm工艺，面向AI工作站与迷你主机市场。",
@@ -232,7 +268,43 @@
       "url": "https://techandbusiness.org/newswire/A9KxU337ELsycETkoplvu9",
       "isHot": false,
       "isImportant": false,
-      "guid": "f8a9b0c1d2e3"
+      "guid": "c1d2e3f4a521"
+    },
+    {
+      "id": 22,
+      "category": "legal",
+      "title": "国务院令第837号 《国务院关于对外投资的规定》7月1日施行",
+      "summary": "推进高水平对外开放，促进对外投资高质量发展，明确对外投资促进、保护、管理与服务框架。",
+      "source": "中国政府网",
+      "time": "2026-07-01",
+      "url": "https://www.gov.cn/gongbao/2026/issue_12786/202606/content_7071618.html",
+      "isHot": false,
+      "isImportant": true,
+      "guid": "d2e3f4a5b622"
+    },
+    {
+      "id": 23,
+      "category": "ai",
+      "title": "中国大模型周调用量27.58万亿Token 占全球过半",
+      "summary": "上周全球总调用量54.6万亿Token，中国占50.5%，连续七周增长，美国仅6.33万亿。",
+      "source": "每日经济新闻",
+      "time": "2026-07-15",
+      "url": "http://m.toutiao.com/group/7662551029489123846/",
+      "isHot": false,
+      "isImportant": false,
+      "guid": "e3f4a5b6c723"
+    },
+    {
+      "id": 24,
+      "category": "policy",
+      "title": "国常会审议通过《全民健身计划(2026-2030年)》",
+      "summary": "多渠道增加健身场地供给，发展校园体育与群众赛事，推动健康产业创新发展。",
+      "source": "中国政府网",
+      "time": "2026-07-10",
+      "url": "https://english.news.cn/20260710/e3dd77dbc9bd40d089e3f76c38cc846f/c.html",
+      "isHot": false,
+      "isImportant": false,
+      "guid": "f4a5b6c7d824"
     }
   ]
 }
