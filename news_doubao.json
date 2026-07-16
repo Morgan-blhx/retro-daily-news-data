@@ -2,240 +2,261 @@
   "meta": {
     "date": "2026-07-16",
     "dateDisplay": "7月16日",
-    "version": "v20260716_test",
-    "totalNews": 18,
-    "generatedAt": "2026-07-16T09:06:12",
+    "version": "v20260716",
+    "totalNews": 20,
+    "generatedAt": "2026-07-16T09:30:00",
     "source": "rss",
-    "model": "豆包测试"
+    "model": "豆包"
   },
   "categories": [
-    {
-      "id": "customs",
-      "name": "海关监管"
-    },
-    {
-      "id": "legal",
-      "name": "法律动态"
-    },
-    {
-      "id": "ai",
-      "name": "AI 技术"
-    },
-    {
-      "id": "policy",
-      "name": "时事政策"
-    },
-    {
-      "id": "game",
-      "name": "游戏资讯"
-    },
-    {
-      "id": "acg",
-      "name": "亚文化"
-    },
-    {
-      "id": "hardware",
-      "name": "PC 硬件"
-    }
+    { "id": "customs", "name": "海关监管" },
+    { "id": "legal", "name": "法律动态" },
+    { "id": "ai", "name": "AI 技术" },
+    { "id": "policy", "name": "时事政策" },
+    { "id": "game", "name": "游戏资讯" },
+    { "id": "acg", "name": "亚文化" },
+    { "id": "hardware", "name": "PC 硬件" }
   ],
   "news": [
     {
       "id": 1,
-      "guid": "a53f9f730ed3",
-      "title": "\"关查\"智能体推动海关监管向智能驱动转型",
       "category": "customs",
-      "time": "2026-07-15",
+      "title": "海关总署第97号公告 出口硫酸铵新增法检 7月16日起实施",
+      "summary": "对硫酸铵等2个10位海关商品编号增设监管条件B，实施出口法定检验，需办理出境货物通关单方可报关。",
+      "source": "海关总署",
+      "time": "2026-07-16",
+      "url": "http://m.toutiao.com/group/7662206512894427658/",
       "isHot": true,
       "isImportant": true,
-      "url": "https://www.shobserver.cn/sgh/detail?id=4021478",
-      "summary": "海关总署人工智能前沿应用实验室在上海海关揭牌，基于百万级海关查验商品图像训练视觉大模型，创新构建\"关查\"智能体，推动海关监管由人工经验向智能驱动转型。"
+      "guid": "a1b2c3d4e501"
     },
     {
       "id": 2,
-      "guid": "8b4ff5730fea",
-      "title": "海关总署发布2025年第194号公告优化主动披露制度",
       "category": "customs",
-      "time": "2025-10-12",
+      "title": "海关总署第100号公告 进口缅甸食用水生动物检疫要求发布",
+      "summary": "明确输华食用水生动物检验检疫要求，不合格产品将退回或销毁，7月14日发布实施。",
+      "source": "海关发布",
+      "time": "2026-07-15",
+      "url": "http://m.toutiao.com/group/7662734797319488040/",
       "isHot": false,
-      "isImportant": true,
-      "url": "https://www.iesdouyin.com/share/video/7560251383049047311",
-      "summary": "海关总署调整主动披露免罚情形，取消影响统计准确性行为的免罚限制，调整检验检疫监管行为的免罚情形，新增进境粮食、进境水生动物等情形的免罚待遇。"
+      "isImportant": false,
+      "guid": "b2c3d4e5f602"
     },
     {
       "id": 3,
-      "guid": "51811bfd1861",
-      "title": "2025年中国海关知识产权保护典型案例发布",
       "category": "customs",
-      "time": "2026-06-23",
+      "title": "海关总署 农业农村部第99号公告 防止洪都拉斯高致病性禽流感传入",
+      "summary": "禁止直接或间接从洪都拉斯输入禽类及其相关产品，禁止寄递或携带来自洪都拉斯的禽类产品入境。",
+      "source": "海关总署",
+      "time": "2026-07-10",
+      "url": "http://m.toutiao.com/group/7662682071881564681/",
       "isHot": false,
-      "isImportant": false,
-      "url": "http://www.customs.gov.cn/zhs/2026-06/23/article_2026062309375038235.html",
-      "summary": "海关推进智慧知识产权场景建设，搭建侵权智能甄别模型，实现侵权线索自动挖掘、风险要素自动生成、高风险货物自动布控，南京海关为首批试点单位。"
+      "isImportant": true,
+      "guid": "c3d4e5f6a703"
     },
     {
       "id": 4,
-      "guid": "610d292d4ac0",
-      "title": "司法部发布8件法规规章备案审查工作典型案例",
-      "category": "legal",
-      "time": "2026-07-14",
+      "category": "customs",
+      "title": "海关总署第88号公告 进口机动车两证合一改革全面推广",
+      "summary": "货物进口证明书与进口机动车辆随车检验单两证合一，提升进口机动车辆通关效率，优化营商环境。",
+      "source": "海关总署",
+      "time": "2026-06-30",
+      "url": "http://qgjcs.customs.gov.cn/customs/attachDir/2026/06/两证合一公告.pdf",
       "isHot": false,
       "isImportant": true,
-      "url": "http://m.toutiao.com/group/7662191012109959716/",
-      "summary": "司法部发布8件法规规章备案审查工作案例，涉及贯彻重大决策部署、正确实施法律法规、保障民生与公共利益等方面，对地方立法具有参考价值。"
+      "guid": "d4e5f6a7b804"
     },
     {
       "id": 5,
-      "guid": "3380a3150352",
-      "title": "《行政执法监督条例》公布，2026年2月起施行",
-      "category": "legal",
-      "time": "2025-12-23",
-      "isHot": false,
-      "isImportant": true,
-      "url": "http://big5.www.gov.cn/gate/big5/www.gov.cn/yaowen/liebiao/202512/content_7052525.htm",
-      "summary": "国务院总理李强签署国务院令公布《行政执法监督条例》，旨在加强和规范行政执法监督，健全行政执法监督机制，推进严格规范公正文明执法。"
+      "category": "customs",
+      "title": "海关总署召开2026年上半年进出口情况新闻发布会",
+      "summary": "7月14日召开，副署长王军及新闻发言人吕大良介绍上半年外贸进出口整体情况与数据。",
+      "source": "海关总署",
+      "time": "2026-07-14",
+      "url": "http://www.customs.gov.cn/eportal/ui?pageid=519467",
+      "isHot": true,
+      "isImportant": false,
+      "guid": "e5f6a7b8c905"
     },
     {
       "id": 6,
-      "guid": "ab9067182246",
-      "title": "DeepSeek-R1开源大模型以557万美元成本对标GPT-4",
-      "category": "ai",
-      "time": "2026-01-15",
-      "isHot": true,
+      "category": "legal",
+      "title": "国务院令第837号 对外投资规定7月1日正式施行",
+      "summary": "推进高水平对外开放，促进对外投资高质量发展，明确对外投资促进、保护、管理与服务框架。",
+      "source": "中国政府网",
+      "time": "2026-07-01",
+      "url": "https://www.gov.cn/gongbao/2026/issue_12786/202606/content_7071618.html",
+      "isHot": false,
       "isImportant": true,
-      "url": "https://blog.csdn.net/mao_feng/article/details/156482901",
-      "summary": "中国团队发布DeepSeek-R1开源大模型，以仅GPT-4二十分之一的训练成本（557.6万美元）实现同级性能，通过架构创新打破大模型等于高算力的垄断。"
+      "guid": "f6a7b8c9d006"
     },
     {
       "id": 7,
-      "guid": "7ca9af24c033",
-      "title": "OpenAI发布Sora 2开启视频生成新纪元",
       "category": "ai",
-      "time": "2025-09-30",
+      "title": "网信办公布7款端侧AI备案 国行Apple智能正式落地",
+      "summary": "新增Apple智能、华为小艺、vivo蓝心、小米澎湃AI等7款备案，国行苹果集成通义千问告别功能阉割。",
+      "source": "今日头条",
+      "time": "2026-07-15",
+      "url": "http://m.toutiao.com/group/7662920595515965990/",
       "isHot": true,
       "isImportant": true,
-      "url": "https://blog.csdn.net/yuntongliangda/article/details/152553282",
-      "summary": "OpenAI发布旗舰视频与音频生成模型Sora 2，实现物理世界精准模拟、音视频同步生成、跨镜头叙事等革命性突破，配套Sora社交应用同步推出。"
+      "guid": "a7b8c9d0e107"
     },
     {
       "id": 8,
-      "guid": "f12379eb14df",
-      "title": "苹果开源SHARP模型实现一秒2D转3D",
       "category": "ai",
-      "time": "2025-12-19",
-      "isHot": false,
+      "title": "WAIC 2026世界人工智能大会7月17日上海开幕",
+      "summary": "108款芯片261款大模型亮相，华为Atlas 950超节点真机首秀，9位图灵奖得主开讲。",
+      "source": "36氪",
+      "time": "2026-07-15",
+      "url": "https://36kr.com/p/3896827901200259",
+      "isHot": true,
       "isImportant": false,
-      "url": "https://www.iesdouyin.com/share/video/7585241726369959203",
-      "summary": "苹果开源SHARP模型，利用3D高斯泼溅技术，能在一秒钟内将普通2D照片转换为逼真3D场景，推动3D内容生成门槛大幅降低。"
+      "guid": "b8c9d0e1f208"
     },
     {
       "id": 9,
-      "guid": "a1cc8023f5ca",
-      "title": "国务院批复同意《扩大消费\"十五五\"规划》",
-      "category": "policy",
-      "time": "2026-07-14",
-      "isHot": true,
+      "category": "ai",
+      "title": "DeepSeek V4全量上线 首创算力峰谷分时定价",
+      "summary": "Pro版1.6万亿参数推理激活490亿，支持百万token上下文；工作日高峰API价格翻倍闲时原价。",
+      "source": "今日头条",
+      "time": "2026-07-15",
+      "url": "http://m.toutiao.com/group/7662907351909581352/",
+      "isHot": false,
       "isImportant": true,
-      "url": "http://m.toutiao.com/group/7662291405267616296/",
-      "summary": "国务院发布关于《扩大消费\"十五五\"规划》的批复，国家发改委、商务部牵头推进，旨在推动消费扩容提质，服务构建新发展格局。"
+      "guid": "c9d0e1f2a309"
     },
     {
       "id": 10,
-      "guid": "6c2d3a80fba3",
-      "title": "《住房租赁条例》9月15日起正式施行",
-      "category": "policy",
-      "time": "2025-09-15",
-      "isHot": false,
-      "isImportant": true,
-      "url": "http://big5.www.gov.cn/gate/big5/www.gov.cn/yaowen/liebiao/202508/content_7038235.htm",
-      "summary": "《住房租赁条例》规定出租住房应符合建筑消防标准，明确押金数额与返还规则，出租人无正当理由不得扣减押金，规范住房租赁市场秩序。"
+      "category": "ai",
+      "title": "Thinking Machines发布Inkling开源模型 可自我迭代训练",
+      "summary": "模型自己写微调任务、跑训练、评估结果，完成自我迭代；同期发布12B参数低成本版本。",
+      "source": "今日头条",
+      "time": "2026-07-16",
+      "url": "http://m.toutiao.com/group/7662920457301082650/",
+      "isHot": true,
+      "isImportant": false,
+      "guid": "d0e1f2a3b410"
     },
     {
       "id": 11,
-      "guid": "a76eb5ebd7d1",
-      "title": "2025年中国游戏市场收入3507.89亿元创历史新高",
-      "category": "game",
-      "time": "2026-07-14",
-      "isHot": true,
-      "isImportant": true,
-      "url": "http://m.toutiao.com/group/7662364922872857134/",
-      "summary": "2025年中国游戏市场实际销售收入达3507.89亿元，同比增长7.68%，用户规模突破6.83亿人，两项指标均创历史新高。"
+      "category": "ai",
+      "title": "面壁智能上半年融资超50亿 估值突破200亿元",
+      "summary": "投资方包括国家级基金、央企、汽车制造商及财务机构，清华孵化的大模型公司估值再创新高。",
+      "source": "爱范儿",
+      "time": "2026-07-16",
+      "url": "http://m.toutiao.com/group/7662922949107794467/",
+      "isHot": false,
+      "isImportant": false,
+      "guid": "e1f2a3b4c511"
     },
     {
       "id": 12,
-      "guid": "af6d7610c030",
-      "title": "巨人网络《太空杀》接入DeepSeek推出AI原生玩法",
-      "category": "game",
-      "time": "2026-07-14",
+      "category": "policy",
+      "title": "央行：继续实施适度宽松货币政策 加大逆周期调节",
+      "summary": "邹澜副行长在国新办发布会表示，把握货币政策力度节奏时机，着力扩大内需支持十五五良好开局。",
+      "source": "证券日报",
+      "time": "2026-07-15",
+      "url": "http://m.toutiao.com/group/7662790632976515647/",
       "isHot": true,
-      "isImportant": false,
-      "url": "https://blog.csdn.net/GameGoing/article/details/146919432",
-      "summary": "巨人网络社交推理游戏《太空杀》接入DeepSeek大模型，推出业内首创\"内鬼挑战\"模式，AI驱动八名玩家与两名真人对战，重构游戏交互体验。"
+      "isImportant": true,
+      "guid": "f2a3b4c5d612"
     },
     {
       "id": 13,
-      "guid": "3a86740c0dfe",
-      "title": "中国自研游戏海外5月收入同比增长29.27%",
-      "category": "game",
-      "time": "2026-07-16",
+      "category": "policy",
+      "title": "央行单日开展4265亿逆回购 净投放4115亿元",
+      "summary": "7月15日开展4265亿7天期逆回购操作，到期150亿，维持银行体系流动性充裕。",
+      "source": "上海国际货币经纪",
+      "time": "2026-07-15",
+      "url": "https://www.cfets-nex.com.cn/",
       "isHot": false,
-      "isImportant": true,
-      "url": "http://m.toutiao.com/group/7662894172638298659/",
-      "summary": "2026年5月中国自主研发游戏海外市场实际销售收入达20.39亿美元，同比大幅增长29.27%，前5个月月均收入保持在20亿美元以上。"
+      "isImportant": false,
+      "guid": "a3b4c5d6e713"
     },
     {
       "id": 14,
-      "guid": "48d547268c64",
-      "title": "COMICUP漫展调整为新中式主题展",
-      "category": "acg",
-      "time": "2025-12-22",
-      "isHot": true,
+      "category": "policy",
+      "title": "央行：支持财政部提高离岸人民币国债发行规模",
+      "summary": "继续常态化发行央行票据，丰富离岸人民币市场优质资产供给，吸引主权机构与跨国企业。",
+      "source": "36氪",
+      "time": "2026-07-15",
+      "url": "https://36kr.com/newsflashes/3896627277694852",
+      "isHot": false,
       "isImportant": false,
-      "url": "http://news.qq.com/rain/a/20251222A04FWO00",
-      "summary": "国内最大同人展COMICUP宣布调整展出形式，采用\"新中式\"主题，对日本IP分区展出做出重大调整，引发二次元社区广泛讨论。"
+      "guid": "b4c5d6e7f814"
     },
     {
       "id": 15,
-      "guid": "26b26b40de01",
-      "title": "2025年中国动画电影票房迎来爆发元年",
-      "category": "acg",
-      "time": "2026-01-13",
-      "isHot": false,
-      "isImportant": true,
-      "url": "https://m.thepaper.cn/newsDetail_forward_32369751",
-      "summary": "《哪吒之魔童闹海》以150亿票房击穿质疑，《浪浪山小妖怪》刷新2D动画票房纪录，中国动画电影成为兼具口碑与商业价值的长内容赛道。"
+      "category": "game",
+      "title": "CS2 7月15日更新 4张社区地图同步升级",
+      "summary": "Fachwerk、Boulder、Shelter、El Dorado四张地图更新至工坊最新版本，修复多项稳定性问题。",
+      "source": "Valve官方",
+      "time": "2026-07-15",
+      "url": "https://consolepcgaming.com/counter-strike-2-update-refreshes-four-community-maps/",
+      "isHot": true,
+      "isImportant": false,
+      "guid": "c5d6e7f8a915"
     },
     {
       "id": 16,
-      "guid": "b4e5e767e58c",
-      "title": "AMD发布RX 9060 XT显卡与Threadripper 9000处理器",
-      "category": "hardware",
-      "time": "2025-05-20",
-      "isHot": false,
+      "category": "game",
+      "title": "CS2第五赛季正式上线 Cache时隔七年回归竞技池",
+      "summary": "Premier Season 5开启，经典地图Cache回归Active Duty，炸弹伤害系统全面重做。",
+      "source": "新浪电竞",
+      "time": "2026-07-09",
+      "url": "http://dj.sina.com.cn/article_nihesme4470913.shtml",
+      "isHot": true,
       "isImportant": true,
-      "url": "https://www.amd.com/zh-cn/newsroom/press-releases/2025-5-20-amd-introduces-new-radeon-graphics-cards-and-ryzen.html",
-      "summary": "AMD在COMPUTEX 2025发布基于RDNA 4架构的RX 9060 XT显卡，支持FSR 4机器学习升频技术，同步推出锐龙Threadripper 9000系列处理器。"
+      "guid": "d6e7f8a9b016"
     },
     {
       "id": 17,
-      "guid": "58cc434210ee",
-      "title": "NVIDIA RTX 50系列显卡采用Blackwell架构发布",
       "category": "hardware",
-      "time": "2025-01-07",
+      "title": "AMD确认Zen 6 EPYC Venice 7月22日发布 台积电2nm工艺",
+      "summary": "全球首款2nm高性能计算CPU，IPC提升约15%，能效比大幅提升，Advancing AI活动亮相。",
+      "source": "电子工程专辑",
+      "time": "2026-07-10",
+      "url": "https://www.eet-china.com/mp/a508943.html",
       "isHot": true,
       "isImportant": true,
-      "url": "https://blog.csdn.net/longkunhulian/article/details/145014520",
-      "summary": "NVIDIA在CES 2025发布RTX 50系列显卡，采用全新Blackwell架构，支持DLSS 4.0技术与GDDR7显存，带来性能与能效双重飞跃。"
+      "guid": "e7f8a9b0c117"
     },
     {
       "id": 18,
-      "guid": "f38bdb1ba460",
-      "title": "AI需求驱动PC硬件全产业链涨价潮",
       "category": "hardware",
-      "time": "2025-12-08",
+      "title": "RTX 50 Super确认延期至CES 2027 NVIDIA削减供货20-40%",
+      "summary": "供应链确认3GB GDDR7模块短缺导致发布窗口大幅延后，2026年成为30年来无新卡年。",
+      "source": "今日头条",
+      "time": "2026-07-16",
+      "url": "http://m.toutiao.com/group/7662920306276696619/",
+      "isHot": true,
+      "isImportant": false,
+      "guid": "f8a9b0c1d218"
+    },
+    {
+      "id": 19,
+      "category": "hardware",
+      "title": "AMD锐龙9 9950X3D2发布 双CCD堆叠3D V-Cache",
+      "summary": "16核32线程，L2+L3总缓存208MB，AMD首款双CCD均堆叠3D缓存的消费级处理器。",
+      "source": "AMD官方",
+      "time": "2026-07-11",
+      "url": "https://www.amd.com/zh-cn/blogs/2026/amd-bw-2026-passion-driven-gaming-ai.html",
+      "isHot": false,
+      "isImportant": true,
+      "guid": "a9b0c1d2e319"
+    },
+    {
+      "id": 20,
+      "category": "ai",
+      "title": "阶跃星辰发布智能体原生操作系统Step AOS",
+      "summary": "全球首个Agent原生操作系统，重构应用交互范式，让AI Agent直接接管系统级操作能力。",
+      "source": "今日头条",
+      "time": "2026-07-16",
+      "url": "http://m.toutiao.com/group/7662892978100339235/",
       "isHot": false,
       "isImportant": false,
-      "url": "https://g.pconline.com.cn/x/2029/20291773.html",
-      "summary": "受AI数据中心对HBM庞大需求影响，内存SSD价格翻倍上涨，NVIDIA RTX 5060和AMD显卡纷纷提价，CPU因晶圆产能紧张跟进涨价。"
+      "guid": "b0c1d2e3f420"
     }
   ]
 }
