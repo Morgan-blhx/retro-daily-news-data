@@ -1,10 +1,10 @@
 {
   "meta": {
-    "date": "2026-08-21",
-    "dateDisplay": "8月21日",
-    "version": "v20260821",
-    "totalNews": 41,
-    "generatedAt": "2026-08-21T01:49:58.167134",
+    "date": "2026-08-22",
+    "dateDisplay": "8月22日",
+    "version": "v20260822",
+    "totalNews": 28,
+    "generatedAt": "2026-08-22T01:43:50.852641",
     "source": "rss",
     "model": "deepseek-v4-pro"
   },
@@ -84,258 +84,114 @@
     },
     {
       "id": 4,
-      "category": "customs",
-      "title": "资讯 - 2026胡润智榜·大中华区卓越法律服务指南（国际贸易/WTO、海关与出口管制）",
-      "summary": "资讯 - 2026胡润智榜·大中华区卓越法律服务指南（国际贸易/WTO、海关与出口管制）",
-      "source": "Google News",
-      "time": "2026-08-21",
-      "url": "https://www.hurun.net",
+      "category": "ai",
+      "title": "微软 Win11 将精细化管理统一内存，调控图形和 AI 预留容量",
+      "summary": "微软 Win11 将精细化管理统一内存，调控图形和 AI 预留容量",
+      "source": "IT之家",
+      "time": "2026-08-22",
+      "url": "https://www.ithome.com/0/992/904.htm",
       "isHot": false,
       "isImportant": false,
-      "guid": "b72b57711f8b"
+      "guid": "ce09ecdf222d"
     },
     {
       "id": 5,
-      "category": "customs",
-      "title": "商务部、海关总署：对氦气实施临时禁止出口管理",
-      "summary": "商务部、海关总署：对氦气实施临时禁止出口管理",
-      "source": "Google News",
-      "time": "2026-08-21",
-      "url": "https://www.cls.cn",
+      "category": "ai",
+      "title": "消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品",
+      "summary": "消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品",
+      "source": "IT之家",
+      "time": "2026-08-22",
+      "url": "https://www.ithome.com/0/992/890.htm",
       "isHot": false,
       "isImportant": false,
-      "guid": "a8a5cd13b636"
+      "guid": "4e60657c7959"
     },
     {
       "id": 6,
-      "category": "customs",
-      "title": "多家上市公司因违规出口稀土等关键矿产被处罚(含视频)",
-      "summary": "多家上市公司因违规出口稀土等关键矿产被处罚(含视频)",
-      "source": "Google News",
-      "time": "2026-08-21",
-      "url": "https://m.caixin.com",
+      "category": "ai",
+      "title": "对 AI 抵触情绪上升：美国年轻人越来越讨厌 AI，硅谷高管爆发公开分歧",
+      "summary": "对 AI 抵触情绪上升：美国年轻人越来越讨厌 AI，硅谷高管爆发公开分歧",
+      "source": "IT之家",
+      "time": "2026-08-22",
+      "url": "https://www.ithome.com/0/992/882.htm",
       "isHot": false,
       "isImportant": false,
-      "guid": "6cf225a0b80c"
+      "guid": "3e73c6b92663"
     },
     {
       "id": 7,
-      "category": "ai",
-      "title": "Adobe Firefly 扩充 AI 音频服务，可生成音乐、配音和音效",
-      "summary": "Adobe Firefly 扩充 AI 音频服务，可生成音乐、配音和音效",
+      "category": "game",
+      "title": "开源兼容层 Wine 11.16 发布：新增 VA-API 硬件解码，修复 Steam 无法启动等 35 个 Bug",
+      "summary": "开源兼容层 Wine 11.16 发布：新增 VA-API 硬件解码，修复 Steam 无法启动等 35 个 Bug",
       "source": "IT之家",
-      "time": "2026-08-21",
-      "url": "https://www.ithome.com/0/992/439.htm",
+      "time": "2026-08-22",
+      "url": "https://www.ithome.com/0/992/915.htm",
       "isHot": false,
       "isImportant": false,
-      "guid": "66831eb714d7"
+      "guid": "3436b15bf2ad"
     },
     {
       "id": 8,
-      "category": "ai",
-      "title": "苹果为 AirPods Pro 3 等耳机推送 9A5347a 测试固件",
-      "summary": "苹果为 AirPods Pro 3 等耳机推送 9A5347a 测试固件",
+      "category": "game",
+      "title": "微软公布《漫威斗魂》等游戏不兼容 Win11 八月更新初步结果：RGB 灯效设备代码冲突",
+      "summary": "微软公布《漫威斗魂》等游戏不兼容 Win11 八月更新初步结果：RGB 灯效设备代码冲突",
       "source": "IT之家",
-      "time": "2026-08-21",
-      "url": "https://www.ithome.com/0/992/438.htm",
+      "time": "2026-08-22",
+      "url": "https://www.ithome.com/0/992/907.htm",
       "isHot": false,
       "isImportant": false,
-      "guid": "d6064292320c"
+      "guid": "498d83b662e1"
     },
     {
       "id": 9,
-      "category": "ai",
-      "title": "苹果收紧 Apple Music 服务，AI 生成音乐年底将强制标注",
-      "summary": "苹果收紧 Apple Music 服务，AI 生成音乐年底将强制标注",
+      "category": "game",
+      "title": "《使命召唤：现代战争 4》试玩登陆 Steam，完整游戏 10 月 23 日发行",
+      "summary": "《使命召唤：现代战争 4》试玩登陆 Steam，完整游戏 10 月 23 日发行",
       "source": "IT之家",
-      "time": "2026-08-21",
-      "url": "https://www.ithome.com/0/992/428.htm",
+      "time": "2026-08-22",
+      "url": "https://www.ithome.com/0/992/887.htm",
       "isHot": false,
       "isImportant": false,
-      "guid": "74f7a4224a0c"
+      "guid": "b78d4e76c4ae"
     },
     {
       "id": 10,
-      "category": "ai",
-      "title": "Mac 版 ChatGPT 可控制“信息”应用，古尔曼称恐触及苹果 Siri AI 的设备优势",
-      "summary": "Mac 版 ChatGPT 可控制“信息”应用，古尔曼称恐触及苹果 Siri AI 的设备优势",
+      "category": "game",
+      "title": "R 星母公司 T2 出手追查《GTA6》泄密人大葱哥，向微软和 Discord 发传票",
+      "summary": "R 星母公司 T2 出手追查《GTA6》泄密人大葱哥，向微软和 Discord 发传票",
       "source": "IT之家",
-      "time": "2026-08-21",
-      "url": "https://www.ithome.com/0/992/426.htm",
+      "time": "2026-08-22",
+      "url": "https://www.ithome.com/0/992/884.htm",
       "isHot": false,
       "isImportant": false,
-      "guid": "e5c9af27f6a0"
+      "guid": "512e5822f8de"
     },
     {
       "id": 11,
-      "category": "ai",
-      "title": "消息称博通拟通过最新 AI 相关债务融资，筹资超 600 亿美元",
-      "summary": "消息称博通拟通过最新 AI 相关债务融资，筹资超 600 亿美元",
+      "category": "game",
+      "title": "R 星《GTA6》地图又泄露了，但这次与大葱哥无关",
+      "summary": "R 星《GTA6》地图又泄露了，但这次与大葱哥无关",
       "source": "IT之家",
-      "time": "2026-08-21",
-      "url": "https://www.ithome.com/0/992/420.htm",
+      "time": "2026-08-22",
+      "url": "https://www.ithome.com/0/992/869.htm",
       "isHot": false,
       "isImportant": false,
-      "guid": "be8cd494427b"
+      "guid": "7091c15ca47b"
     },
     {
       "id": 12,
-      "category": "ai",
-      "title": "云电脑 Windows 365 上线 5 周年，微软规划深度整合 AI 智能体体验",
-      "summary": "云电脑 Windows 365 上线 5 周年，微软规划深度整合 AI 智能体体验",
+      "category": "game",
+      "title": "《寂静岭：Townfall》在主机平台将由 PS5 独占至少半年，后续再登陆 XBOX",
+      "summary": "《寂静岭：Townfall》在主机平台将由 PS5 独占至少半年，后续再登陆 XBOX",
       "source": "IT之家",
-      "time": "2026-08-21",
-      "url": "https://www.ithome.com/0/992/419.htm",
+      "time": "2026-08-22",
+      "url": "https://www.ithome.com/0/992/840.htm",
       "isHot": false,
       "isImportant": false,
-      "guid": "e9128bc9fc03"
+      "guid": "f78bbe5650f1"
     },
     {
       "id": 13,
-      "category": "game",
-      "title": "ROG Zephyrus G14 游戏本用户反馈使用集显模式 15 天，Win11 自动卸载独显驱动",
-      "summary": "ROG Zephyrus G14 游戏本用户反馈使用集显模式 15 天，Win11 自动卸载独显驱动",
-      "source": "IT之家",
-      "time": "2026-08-21",
-      "url": "https://www.ithome.com/0/992/449.htm",
-      "isHot": false,
-      "isImportant": false,
-      "guid": "76038620e415"
-    },
-    {
-      "id": 14,
-      "category": "game",
-      "title": "联想拯救者云游戏掌机 C700 定档 8 月 25 日发布，支持腾讯 START",
-      "summary": "联想拯救者云游戏掌机 C700 定档 8 月 25 日发布，支持腾讯 START",
-      "source": "IT之家",
-      "time": "2026-08-21",
-      "url": "https://www.ithome.com/0/992/423.htm",
-      "isHot": false,
-      "isImportant": false,
-      "guid": "10ca6977aebe"
-    },
-    {
-      "id": 15,
-      "category": "game",
-      "title": "格斗游戏《2XKO》玩家留存率不足，Riot 官宣年底转入维护模式",
-      "summary": "格斗游戏《2XKO》玩家留存率不足，Riot 官宣年底转入维护模式",
-      "source": "IT之家",
-      "time": "2026-08-21",
-      "url": "https://www.ithome.com/0/992/422.htm",
-      "isHot": false,
-      "isImportant": false,
-      "guid": "9eaff6a1dc07"
-    },
-    {
-      "id": 16,
-      "category": "game",
-      "title": "消费电子全面涨价：美国 7 月游戏硬件支出同比下降 29%、实体游戏销量创新低，接近 2020 年疫情同期水平",
-      "summary": "消费电子全面涨价：美国 7 月游戏硬件支出同比下降 29%、实体游戏销量创新低，接近 2020 年疫情同期水平",
-      "source": "IT之家",
-      "time": "2026-08-21",
-      "url": "https://www.ithome.com/0/992/403.htm",
-      "isHot": false,
-      "isImportant": false,
-      "guid": "2a579040661d"
-    },
-    {
-      "id": 17,
-      "category": "game",
-      "title": "SteamOS 3.9 适配英特尔 Arc B580 独显，可直接启动并运行多款游戏",
-      "summary": "SteamOS 3.9 适配英特尔 Arc B580 独显，可直接启动并运行多款游戏",
-      "source": "IT之家",
-      "time": "2026-08-21",
-      "url": "https://www.ithome.com/0/992/384.htm",
-      "isHot": false,
-      "isImportant": false,
-      "guid": "ff0e7d129187"
-    },
-    {
-      "id": 18,
-      "category": "game",
-      "title": "《糖果派对免费试玩网站》Steam 87元新史低促销 玩家吐槽被被刺",
-      "summary": "《糖果派对免费试玩网站》Steam 87元新史低促销 玩家吐槽被被刺",
-      "source": "Google News",
-      "time": "2026-08-21",
-      "url": "https://www.womenofchina.com",
-      "isHot": false,
-      "isImportant": false,
-      "guid": "884760697b0e"
-    },
-    {
-      "id": 19,
-      "category": "acg",
-      "title": "在漫展，看到了年轻人一万种“发光”方式！",
-      "summary": "在漫展，看到了年轻人一万种“发光”方式！",
-      "source": "Google News",
-      "time": "2026-08-21",
-      "url": "https://m.bjnews.com.cn",
-      "isHot": false,
-      "isImportant": false,
-      "guid": "d43b808b0f07"
-    },
-    {
-      "id": 20,
-      "category": "acg",
-      "title": "天天发娱乐网络更新！漫展50元柠檬洗脚水被抢空 网友:这很魔幻",
-      "summary": "天天发娱乐网络更新！漫展50元柠檬洗脚水被抢空 网友:这很魔幻",
-      "source": "Google News",
-      "time": "2026-08-21",
-      "url": "https://www.womenofchina.com",
-      "isHot": false,
-      "isImportant": false,
-      "guid": "884760697b0e"
-    },
-    {
-      "id": 21,
-      "category": "acg",
-      "title": "#一分钟精选视频扶持计划# 生活大爆炸 | “很般配的情侣装” 万圣节cosplay大赏[doge] ​",
-      "summary": "#一分钟精选视频扶持计划# 生活大爆炸 | “很般配的情侣装” 万圣节cosplay大赏[doge] ​",
-      "source": "Google News",
-      "time": "2026-08-21",
-      "url": "https://k.sina.com.cn",
-      "isHot": false,
-      "isImportant": false,
-      "guid": "7b817c073a66"
-    },
-    {
-      "id": 22,
-      "category": "acg",
-      "title": "暑期档票房刷新纪录，漫展经济撬动年轻力｜世研消费指数热点榜",
-      "summary": "暑期档票房刷新纪录，漫展经济撬动年轻力｜世研消费指数热点榜",
-      "source": "Google News",
-      "time": "2026-08-21",
-      "url": "https://ent.sina.cn",
-      "isHot": false,
-      "isImportant": false,
-      "guid": "69cae63fffda"
-    },
-    {
-      "id": 23,
-      "category": "acg",
-      "title": "由于阿宅太臭，漫展官方让6个Coser小姐姐出手了……",
-      "summary": "由于阿宅太臭，漫展官方让6个Coser小姐姐出手了……",
-      "source": "Google News",
-      "time": "2026-08-21",
-      "url": "https://user.guancha.cn",
-      "isHot": false,
-      "isImportant": false,
-      "guid": "970a66a80ad9"
-    },
-    {
-      "id": 24,
-      "category": "acg",
-      "title": "画廊 多彩釉面瓷砖表皮，BW 别墅/ Mecanoo - 15",
-      "summary": "画廊 多彩釉面瓷砖表皮，BW 别墅/ Mecanoo - 15",
-      "source": "Google News",
-      "time": "2026-08-21",
-      "url": "https://www.archdaily.com",
-      "isHot": false,
-      "isImportant": false,
-      "guid": "52e16b5db96d"
-    },
-    {
-      "id": 25,
       "category": "policy",
       "title": "国务院印发《关于开展第四次全国农业普查的通知》",
       "summary": "国务院印发《关于开展第四次全国农业普查的通知》",
@@ -347,7 +203,7 @@
       "guid": "00d0b2284f29"
     },
     {
-      "id": 26,
+      "id": 14,
       "category": "policy",
       "title": "超九成事项一窗受理 上千条政策“免申即享”",
       "summary": "超九成事项一窗受理 上千条政策“免申即享”",
@@ -359,7 +215,7 @@
       "guid": "f1c614e2b5af"
     },
     {
-      "id": 27,
+      "id": 15,
       "category": "policy",
       "title": "丁薛祥集体会见上海合作组织成员国财长和央行行长会议外方参会代表",
       "summary": "丁薛祥集体会见上海合作组织成员国财长和央行行长会议外方参会代表",
@@ -371,7 +227,7 @@
       "guid": "6d62f158c733"
     },
     {
-      "id": 28,
+      "id": 16,
       "category": "policy",
       "title": "中华人民共和国国务院令 第809号",
       "summary": "中华人民共和国国务院令 第809号",
@@ -383,7 +239,7 @@
       "guid": "c362dde49df0"
     },
     {
-      "id": 29,
+      "id": 17,
       "category": "policy",
       "title": "李强签署国务院令 公布《政务数据共享条例》",
       "summary": "李强签署国务院令 公布《政务数据共享条例》",
@@ -395,7 +251,7 @@
       "guid": "bfcbbe77d043"
     },
     {
-      "id": 30,
+      "id": 18,
       "category": "policy",
       "title": "丁薛祥集体会见上海合作组织成员国财长和央行行长会议外方参会代表",
       "summary": "丁薛祥集体会见上海合作组织成员国财长和央行行长会议外方参会代表",
@@ -407,7 +263,7 @@
       "guid": "e270f9d862cb"
     },
     {
-      "id": 31,
+      "id": 19,
       "category": "legal",
       "title": "北京高校服务新时代首都发展特别报道 | 北京电影学院：“光影+科技”探索艺术与科技融合新范式",
       "summary": "北京高校服务新时代首都发展特别报道 | 北京电影学院：“光影+科技”探索艺术与科技融合新范式",
@@ -419,7 +275,7 @@
       "guid": "636d03417cc5"
     },
     {
-      "id": 32,
+      "id": 20,
       "category": "legal",
       "title": "北京高校服务新时代首都发展特别报道 | 北京电影学院：以光影为笔 绘就首都高质量发展新画卷",
       "summary": "北京高校服务新时代首都发展特别报道 | 北京电影学院：以光影为笔 绘就首都高质量发展新画卷",
@@ -431,7 +287,7 @@
       "guid": "4267d55fdcd4"
     },
     {
-      "id": 33,
+      "id": 21,
       "category": "legal",
       "title": "北京高校服务新时代首都发展特别报道 | 北京电影学院：校地携手汇合力，聚力影都新发展",
       "summary": "北京高校服务新时代首都发展特别报道 | 北京电影学院：校地携手汇合力，聚力影都新发展",
@@ -443,7 +299,7 @@
       "guid": "34da23c2d6f1"
     },
     {
-      "id": 34,
+      "id": 22,
       "category": "legal",
       "title": "中国儿童中心举办庆祝“六一”国际儿童节主题游园活动",
       "summary": "中国儿童中心举办庆祝“六一”国际儿童节主题游园活动",
@@ -455,7 +311,7 @@
       "guid": "2f0b93e00dbc"
     },
     {
-      "id": 35,
+      "id": 23,
       "category": "legal",
       "title": "西南民族大学校长王永强：愿你们以从容之姿应战 以豁达之心待果",
       "summary": "西南民族大学校长王永强：愿你们以从容之姿应战 以豁达之心待果",
@@ -467,7 +323,7 @@
       "guid": "20dee763a855"
     },
     {
-      "id": 36,
+      "id": 24,
       "category": "legal",
       "title": "人大校长林尚立：青春不应该被定义 更不应该被设限",
       "summary": "人大校长林尚立：青春不应该被定义 更不应该被设限",
@@ -479,64 +335,52 @@
       "guid": "e4139b549a94"
     },
     {
-      "id": 37,
+      "id": 25,
       "category": "hardware",
-      "title": "ROG Zephyrus G14 游戏本用户反馈使用集显模式 15 天，Win11 自动卸载独显驱动",
-      "summary": "ROG Zephyrus G14 游戏本用户反馈使用集显模式 15 天，Win11 自动卸载独显驱动",
+      "title": "微软 Win11 将精细化管理统一内存，调控图形和 AI 预留容量",
+      "summary": "微软 Win11 将精细化管理统一内存，调控图形和 AI 预留容量",
       "source": "IT之家",
-      "time": "2026-08-21",
-      "url": "https://www.ithome.com/0/992/449.htm",
+      "time": "2026-08-22",
+      "url": "https://www.ithome.com/0/992/904.htm",
       "isHot": false,
       "isImportant": false,
-      "guid": "76038620e415"
+      "guid": "ce09ecdf222d"
     },
     {
-      "id": 38,
+      "id": 26,
       "category": "hardware",
-      "title": "创见推出全系列 DDR5-7200 工业内存模组，支持 -20℃ ~ +85℃",
-      "summary": "创见推出全系列 DDR5-7200 工业内存模组，支持 -20℃ ~ +85℃",
+      "title": "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热",
+      "summary": "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热",
       "source": "IT之家",
-      "time": "2026-08-21",
-      "url": "https://www.ithome.com/0/992/445.htm",
+      "time": "2026-08-22",
+      "url": "https://www.ithome.com/0/992/892.htm",
       "isHot": false,
       "isImportant": false,
-      "guid": "7d8dc4ca703b"
+      "guid": "a9a7cd3a3e2d"
     },
     {
-      "id": 39,
+      "id": 27,
       "category": "hardware",
-      "title": "荣耀 Robot Phone 手机维修备件价格公布：主摄 3079 元，主板 4599 元起",
-      "summary": "荣耀 Robot Phone 手机维修备件价格公布：主摄 3079 元，主板 4599 元起",
+      "title": "Mercury：AMD 客户端 CPU 份额首次突破 30%，英特尔优势进一步缩小",
+      "summary": "Mercury：AMD 客户端 CPU 份额首次突破 30%，英特尔优势进一步缩小",
       "source": "IT之家",
-      "time": "2026-08-21",
-      "url": "https://www.ithome.com/0/992/433.htm",
+      "time": "2026-08-22",
+      "url": "https://www.ithome.com/0/992/881.htm",
       "isHot": false,
       "isImportant": false,
-      "guid": "a968210d20a2"
+      "guid": "5280d1662301"
     },
     {
-      "id": 40,
+      "id": 28,
       "category": "hardware",
-      "title": "IT早报 0821：奕境汽车为“假 Labubu”礼品致歉；华为发布享界 G9 / 智界 RX 等四车、Pura X View 阔直板手机；《黑神话：钟馗》15 分钟实机演示公布...",
-      "summary": "IT早报 0821：奕境汽车为“假 Labubu”礼品致歉；华为发布享界 G9 / 智界 RX 等四车、Pura X View 阔直板手机；《黑神话：钟馗》15 分钟实机演示公布...",
+      "title": "SSD 与 HDD 价差创纪录，30TB 企业级固态硬盘飙至 22600 美元达机械硬盘 18.6 倍",
+      "summary": "SSD 与 HDD 价差创纪录，30TB 企业级固态硬盘飙至 22600 美元达机械硬盘 18.6 倍",
       "source": "IT之家",
-      "time": "2026-08-21",
-      "url": "https://www.ithome.com/0/992/429.htm",
+      "time": "2026-08-22",
+      "url": "https://www.ithome.com/0/992/868.htm",
       "isHot": false,
       "isImportant": false,
-      "guid": "04583bb8de09"
-    },
-    {
-      "id": 41,
-      "category": "hardware",
-      "title": "虚幻 5 国产 MMORPG《诡秘之主》今日公测：PC 推荐 RTX 3070 Ti，移动端苹果 iPhone 12 Pro 起步",
-      "summary": "虚幻 5 国产 MMORPG《诡秘之主》今日公测：PC 推荐 RTX 3070 Ti，移动端苹果 iPhone 12 Pro 起步",
-      "source": "IT之家",
-      "time": "2026-08-21",
-      "url": "https://www.ithome.com/0/992/415.htm",
-      "isHot": false,
-      "isImportant": false,
-      "guid": "bc33ee34f0f0"
+      "guid": "741ade36eb42"
     }
   ]
 }
