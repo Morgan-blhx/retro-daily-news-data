@@ -1,10 +1,10 @@
 {
   "meta": {
-    "date": "2026-08-22",
-    "dateDisplay": "8月22日",
-    "version": "v20260822",
-    "totalNews": 28,
-    "generatedAt": "2026-08-22T01:43:50.852641",
+    "date": "2026-08-23",
+    "dateDisplay": "8月23日",
+    "version": "v20260823",
+    "totalNews": 41,
+    "generatedAt": "2026-08-23T01:53:27.298804",
     "source": "rss",
     "model": "deepseek-v4-pro"
   },
@@ -84,114 +84,258 @@
     },
     {
       "id": 4,
-      "category": "ai",
-      "title": "微软 Win11 将精细化管理统一内存，调控图形和 AI 预留容量",
-      "summary": "微软 Win11 将精细化管理统一内存，调控图形和 AI 预留容量",
-      "source": "IT之家",
-      "time": "2026-08-22",
-      "url": "https://www.ithome.com/0/992/904.htm",
+      "category": "customs",
+      "title": "加美贸易谈判破裂，卡尼宣布对美征收报复性关税",
+      "summary": "加美贸易谈判破裂，卡尼宣布对美征收报复性关税",
+      "source": "中新网·要闻",
+      "time": "2026-08-23",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-23/10682513.shtml",
       "isHot": false,
       "isImportant": false,
-      "guid": "ce09ecdf222d"
+      "guid": "a7c846b87bb6"
     },
     {
       "id": 5,
-      "category": "ai",
-      "title": "消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品",
-      "summary": "消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品",
-      "source": "IT之家",
-      "time": "2026-08-22",
-      "url": "https://www.ithome.com/0/992/890.htm",
+      "category": "customs",
+      "title": "资讯 - 2026胡润智榜·大中华区卓越法律服务指南（国际贸易/WTO、海关与出口管制）",
+      "summary": "资讯 - 2026胡润智榜·大中华区卓越法律服务指南（国际贸易/WTO、海关与出口管制）",
+      "source": "Google News",
+      "time": "2026-08-23",
+      "url": "https://www.hurun.net",
       "isHot": false,
       "isImportant": false,
-      "guid": "4e60657c7959"
+      "guid": "b72b57711f8b"
     },
     {
       "id": 6,
-      "category": "ai",
-      "title": "对 AI 抵触情绪上升：美国年轻人越来越讨厌 AI，硅谷高管爆发公开分歧",
-      "summary": "对 AI 抵触情绪上升：美国年轻人越来越讨厌 AI，硅谷高管爆发公开分歧",
-      "source": "IT之家",
-      "time": "2026-08-22",
-      "url": "https://www.ithome.com/0/992/882.htm",
+      "category": "customs",
+      "title": "商务部、海关总署：对氦气实施临时禁止出口管理",
+      "summary": "商务部、海关总署：对氦气实施临时禁止出口管理",
+      "source": "Google News",
+      "time": "2026-08-23",
+      "url": "https://www.cls.cn",
       "isHot": false,
       "isImportant": false,
-      "guid": "3e73c6b92663"
+      "guid": "a8a5cd13b636"
     },
     {
       "id": 7,
-      "category": "game",
-      "title": "开源兼容层 Wine 11.16 发布：新增 VA-API 硬件解码，修复 Steam 无法启动等 35 个 Bug",
-      "summary": "开源兼容层 Wine 11.16 发布：新增 VA-API 硬件解码，修复 Steam 无法启动等 35 个 Bug",
+      "category": "ai",
+      "title": "OpenAI 一改此前立场，呼吁加州强化 AI 安全法案",
+      "summary": "OpenAI 一改此前立场，呼吁加州强化 AI 安全法案",
       "source": "IT之家",
-      "time": "2026-08-22",
-      "url": "https://www.ithome.com/0/992/915.htm",
+      "time": "2026-08-23",
+      "url": "https://www.ithome.com/0/993/141.htm",
       "isHot": false,
       "isImportant": false,
-      "guid": "3436b15bf2ad"
+      "guid": "9691bd82e455"
     },
     {
       "id": 8,
-      "category": "game",
-      "title": "微软公布《漫威斗魂》等游戏不兼容 Win11 八月更新初步结果：RGB 灯效设备代码冲突",
-      "summary": "微软公布《漫威斗魂》等游戏不兼容 Win11 八月更新初步结果：RGB 灯效设备代码冲突",
+      "category": "ai",
+      "title": "内存成本飙升，消息称英伟达 AI 芯片服务器明年初起涨价最高超 15%",
+      "summary": "内存成本飙升，消息称英伟达 AI 芯片服务器明年初起涨价最高超 15%",
       "source": "IT之家",
-      "time": "2026-08-22",
-      "url": "https://www.ithome.com/0/992/907.htm",
+      "time": "2026-08-23",
+      "url": "https://www.ithome.com/0/993/136.htm",
       "isHot": false,
       "isImportant": false,
-      "guid": "498d83b662e1"
+      "guid": "c67babdf7297"
     },
     {
       "id": 9,
-      "category": "game",
-      "title": "《使命召唤：现代战争 4》试玩登陆 Steam，完整游戏 10 月 23 日发行",
-      "summary": "《使命召唤：现代战争 4》试玩登陆 Steam，完整游戏 10 月 23 日发行",
+      "category": "ai",
+      "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT‑5.5 与 Claude Opus 4.8",
+      "summary": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT‑5.5 与 Claude Opus 4.8",
       "source": "IT之家",
-      "time": "2026-08-22",
-      "url": "https://www.ithome.com/0/992/887.htm",
+      "time": "2026-08-23",
+      "url": "https://www.ithome.com/0/993/133.htm",
       "isHot": false,
       "isImportant": false,
-      "guid": "b78d4e76c4ae"
+      "guid": "775b9da2f9f8"
     },
     {
       "id": 10,
-      "category": "game",
-      "title": "R 星母公司 T2 出手追查《GTA6》泄密人大葱哥，向微软和 Discord 发传票",
-      "summary": "R 星母公司 T2 出手追查《GTA6》泄密人大葱哥，向微软和 Discord 发传票",
+      "category": "ai",
+      "title": "哈佛商学院推出 699 美元创业训练营，讲师 AI 数字分身提供路演反馈",
+      "summary": "哈佛商学院推出 699 美元创业训练营，讲师 AI 数字分身提供路演反馈",
       "source": "IT之家",
-      "time": "2026-08-22",
-      "url": "https://www.ithome.com/0/992/884.htm",
+      "time": "2026-08-23",
+      "url": "https://www.ithome.com/0/993/131.htm",
       "isHot": false,
       "isImportant": false,
-      "guid": "512e5822f8de"
+      "guid": "e51b1be859eb"
     },
     {
       "id": 11,
-      "category": "game",
-      "title": "R 星《GTA6》地图又泄露了，但这次与大葱哥无关",
-      "summary": "R 星《GTA6》地图又泄露了，但这次与大葱哥无关",
+      "category": "ai",
+      "title": "IT早报 0823：特斯拉官网监督版 FSD 支持地区移除中国；DeepSeek 周末统一按低谷价计费；中国铁路成都局回应占座放零食；雷军携小米阔折叠新机现身...",
+      "summary": "IT早报 0823：特斯拉官网监督版 FSD 支持地区移除中国；DeepSeek 周末统一按低谷价计费；中国铁路成都局回应占座放零食；雷军携小米阔折叠新机现身...",
       "source": "IT之家",
-      "time": "2026-08-22",
-      "url": "https://www.ithome.com/0/992/869.htm",
+      "time": "2026-08-23",
+      "url": "https://www.ithome.com/0/993/129.htm",
       "isHot": false,
       "isImportant": false,
-      "guid": "7091c15ca47b"
+      "guid": "5bd77ffa38b3"
     },
     {
       "id": 12,
-      "category": "game",
-      "title": "《寂静岭：Townfall》在主机平台将由 PS5 独占至少半年，后续再登陆 XBOX",
-      "summary": "《寂静岭：Townfall》在主机平台将由 PS5 独占至少半年，后续再登陆 XBOX",
+      "category": "ai",
+      "title": "上海 TI15 总决赛今日开赛：Spirit、Yandex、VISION 争夺 DOTA2 最高荣耀，Sumail 宣布退役",
+      "summary": "上海 TI15 总决赛今日开赛：Spirit、Yandex、VISION 争夺 DOTA2 最高荣耀，Sumail 宣布退役",
       "source": "IT之家",
-      "time": "2026-08-22",
-      "url": "https://www.ithome.com/0/992/840.htm",
+      "time": "2026-08-23",
+      "url": "https://www.ithome.com/0/993/126.htm",
       "isHot": false,
       "isImportant": false,
-      "guid": "f78bbe5650f1"
+      "guid": "e833e9f5c3dc"
     },
     {
       "id": 13,
+      "category": "game",
+      "title": "FCC 曝光索尼新版 DualSense Edge 手柄，有望更方便换电池",
+      "summary": "FCC 曝光索尼新版 DualSense Edge 手柄，有望更方便换电池",
+      "source": "IT之家",
+      "time": "2026-08-23",
+      "url": "https://www.ithome.com/0/993/139.htm",
+      "isHot": false,
+      "isImportant": false,
+      "guid": "932f316a7f28"
+    },
+    {
+      "id": 14,
+      "category": "game",
+      "title": "中国 AG.AL 首夺 2026EWC 电竞世俱杯俱乐部总冠军，力压 FALCONS",
+      "summary": "中国 AG.AL 首夺 2026EWC 电竞世俱杯俱乐部总冠军，力压 FALCONS",
+      "source": "IT之家",
+      "time": "2026-08-23",
+      "url": "https://www.ithome.com/0/993/134.htm",
+      "isHot": false,
+      "isImportant": false,
+      "guid": "16c9f3ced3fb"
+    },
+    {
+      "id": 15,
+      "category": "game",
+      "title": "谨防中招：网传 113GB《GTA 6》泄露版本实为病毒文件",
+      "summary": "谨防中招：网传 113GB《GTA 6》泄露版本实为病毒文件",
+      "source": "IT之家",
+      "time": "2026-08-23",
+      "url": "https://www.ithome.com/0/993/127.htm",
+      "isHot": false,
+      "isImportant": false,
+      "guid": "8baae7d1e457"
+    },
+    {
+      "id": 16,
+      "category": "game",
+      "title": "10 美元买全套 id 游戏？1996 年《雷神之锤》光盘加密 39 天即被破解，id Software 积压 15 万张库存卖不掉",
+      "summary": "10 美元买全套 id 游戏？1996 年《雷神之锤》光盘加密 39 天即被破解，id Software 积压 15 万张库存卖不掉",
+      "source": "IT之家",
+      "time": "2026-08-23",
+      "url": "https://www.ithome.com/0/993/112.htm",
+      "isHot": false,
+      "isImportant": false,
+      "guid": "47f065927b2c"
+    },
+    {
+      "id": 17,
+      "category": "game",
+      "title": "1299 元：华硕 ROG 雷切 2 PRO 无线手柄上架，三模设计、全彩显示屏",
+      "summary": "1299 元：华硕 ROG 雷切 2 PRO 无线手柄上架，三模设计、全彩显示屏",
+      "source": "IT之家",
+      "time": "2026-08-23",
+      "url": "https://www.ithome.com/0/993/111.htm",
+      "isHot": false,
+      "isImportant": false,
+      "guid": "c530412e5f10"
+    },
+    {
+      "id": 18,
+      "category": "game",
+      "title": "《GTA6》实机视频泄露后，消息称 R 星无意调整 Netflix 营销活动",
+      "summary": "《GTA6》实机视频泄露后，消息称 R 星无意调整 Netflix 营销活动",
+      "source": "IT之家",
+      "time": "2026-08-23",
+      "url": "https://www.ithome.com/0/993/098.htm",
+      "isHot": false,
+      "isImportant": false,
+      "guid": "a4442428f8e8"
+    },
+    {
+      "id": 19,
+      "category": "acg",
+      "title": "《9A国际网络投注》漫展还送专属独家周边：战神粉超羡慕！",
+      "summary": "《9A国际网络投注》漫展还送专属独家周边：战神粉超羡慕！",
+      "source": "Google News",
+      "time": "2026-08-23",
+      "url": "https://www.womenofchina.com",
+      "isHot": false,
+      "isImportant": false,
+      "guid": "884760697b0e"
+    },
+    {
+      "id": 20,
+      "category": "acg",
+      "title": "画廊 BW公寓/ ARAD - 10",
+      "summary": "画廊 BW公寓/ ARAD - 10",
+      "source": "Google News",
+      "time": "2026-08-23",
+      "url": "https://www.archdaily.com",
+      "isHot": false,
+      "isImportant": false,
+      "guid": "52e16b5db96d"
+    },
+    {
+      "id": 21,
+      "category": "acg",
+      "title": "在漫展，看到了年轻人一万种“发光”方式！",
+      "summary": "在漫展，看到了年轻人一万种“发光”方式！",
+      "source": "Google News",
+      "time": "2026-08-23",
+      "url": "https://m.bjnews.com.cn",
+      "isHot": false,
+      "isImportant": false,
+      "guid": "d43b808b0f07"
+    },
+    {
+      "id": 22,
+      "category": "acg",
+      "title": "美国东海岸顶级规模动漫展开幕 预计吸引15万人到场",
+      "summary": "美国东海岸顶级规模动漫展开幕 预计吸引15万人到场",
+      "source": "Google News",
+      "time": "2026-08-23",
+      "url": "https://china.kyodonews.net",
+      "isHot": false,
+      "isImportant": false,
+      "guid": "abf0dcaa11e8"
+    },
+    {
+      "id": 23,
+      "category": "acg",
+      "title": "jig.jp一季度财报：智能眼镜与VTuber业务加大投入，智能眼镜SABERA预售超1.9亿日元",
+      "summary": "jig.jp一季度财报：智能眼镜与VTuber业务加大投入，智能眼镜SABERA预售超1.9亿日元",
+      "source": "Google News",
+      "time": "2026-08-23",
+      "url": "https://m.sohu.com",
+      "isHot": false,
+      "isImportant": false,
+      "guid": "8f63a293d16a"
+    },
+    {
+      "id": 24,
+      "category": "acg",
+      "title": "古人的 “漫展” 有多绝？古画里的孩子早已玩透了 cosplay",
+      "summary": "古人的 “漫展” 有多绝？古画里的孩子早已玩透了 cosplay",
+      "source": "Google News",
+      "time": "2026-08-23",
+      "url": "https://news.qq.com",
+      "isHot": false,
+      "isImportant": false,
+      "guid": "248c633c9547"
+    },
+    {
+      "id": 25,
       "category": "policy",
       "title": "国务院印发《关于开展第四次全国农业普查的通知》",
       "summary": "国务院印发《关于开展第四次全国农业普查的通知》",
@@ -203,7 +347,7 @@
       "guid": "00d0b2284f29"
     },
     {
-      "id": 14,
+      "id": 26,
       "category": "policy",
       "title": "超九成事项一窗受理 上千条政策“免申即享”",
       "summary": "超九成事项一窗受理 上千条政策“免申即享”",
@@ -215,7 +359,7 @@
       "guid": "f1c614e2b5af"
     },
     {
-      "id": 15,
+      "id": 27,
       "category": "policy",
       "title": "丁薛祥集体会见上海合作组织成员国财长和央行行长会议外方参会代表",
       "summary": "丁薛祥集体会见上海合作组织成员国财长和央行行长会议外方参会代表",
@@ -227,7 +371,7 @@
       "guid": "6d62f158c733"
     },
     {
-      "id": 16,
+      "id": 28,
       "category": "policy",
       "title": "中华人民共和国国务院令 第809号",
       "summary": "中华人民共和国国务院令 第809号",
@@ -239,7 +383,7 @@
       "guid": "c362dde49df0"
     },
     {
-      "id": 17,
+      "id": 29,
       "category": "policy",
       "title": "李强签署国务院令 公布《政务数据共享条例》",
       "summary": "李强签署国务院令 公布《政务数据共享条例》",
@@ -251,7 +395,7 @@
       "guid": "bfcbbe77d043"
     },
     {
-      "id": 18,
+      "id": 30,
       "category": "policy",
       "title": "丁薛祥集体会见上海合作组织成员国财长和央行行长会议外方参会代表",
       "summary": "丁薛祥集体会见上海合作组织成员国财长和央行行长会议外方参会代表",
@@ -263,7 +407,7 @@
       "guid": "e270f9d862cb"
     },
     {
-      "id": 19,
+      "id": 31,
       "category": "legal",
       "title": "北京高校服务新时代首都发展特别报道 | 北京电影学院：“光影+科技”探索艺术与科技融合新范式",
       "summary": "北京高校服务新时代首都发展特别报道 | 北京电影学院：“光影+科技”探索艺术与科技融合新范式",
@@ -275,7 +419,7 @@
       "guid": "636d03417cc5"
     },
     {
-      "id": 20,
+      "id": 32,
       "category": "legal",
       "title": "北京高校服务新时代首都发展特别报道 | 北京电影学院：以光影为笔 绘就首都高质量发展新画卷",
       "summary": "北京高校服务新时代首都发展特别报道 | 北京电影学院：以光影为笔 绘就首都高质量发展新画卷",
@@ -287,7 +431,7 @@
       "guid": "4267d55fdcd4"
     },
     {
-      "id": 21,
+      "id": 33,
       "category": "legal",
       "title": "北京高校服务新时代首都发展特别报道 | 北京电影学院：校地携手汇合力，聚力影都新发展",
       "summary": "北京高校服务新时代首都发展特别报道 | 北京电影学院：校地携手汇合力，聚力影都新发展",
@@ -299,7 +443,7 @@
       "guid": "34da23c2d6f1"
     },
     {
-      "id": 22,
+      "id": 34,
       "category": "legal",
       "title": "中国儿童中心举办庆祝“六一”国际儿童节主题游园活动",
       "summary": "中国儿童中心举办庆祝“六一”国际儿童节主题游园活动",
@@ -311,7 +455,7 @@
       "guid": "2f0b93e00dbc"
     },
     {
-      "id": 23,
+      "id": 35,
       "category": "legal",
       "title": "西南民族大学校长王永强：愿你们以从容之姿应战 以豁达之心待果",
       "summary": "西南民族大学校长王永强：愿你们以从容之姿应战 以豁达之心待果",
@@ -323,7 +467,7 @@
       "guid": "20dee763a855"
     },
     {
-      "id": 24,
+      "id": 36,
       "category": "legal",
       "title": "人大校长林尚立：青春不应该被定义 更不应该被设限",
       "summary": "人大校长林尚立：青春不应该被定义 更不应该被设限",
@@ -335,52 +479,64 @@
       "guid": "e4139b549a94"
     },
     {
-      "id": 25,
+      "id": 37,
       "category": "hardware",
-      "title": "微软 Win11 将精细化管理统一内存，调控图形和 AI 预留容量",
-      "summary": "微软 Win11 将精细化管理统一内存，调控图形和 AI 预留容量",
+      "title": "鸿蒙智行智界 RX 轿跑 SUV 各版本配置出炉，预售价 29.98 万元起",
+      "summary": "鸿蒙智行智界 RX 轿跑 SUV 各版本配置出炉，预售价 29.98 万元起",
       "source": "IT之家",
-      "time": "2026-08-22",
-      "url": "https://www.ithome.com/0/992/904.htm",
+      "time": "2026-08-23",
+      "url": "https://www.ithome.com/0/993/142.htm",
       "isHot": false,
       "isImportant": false,
-      "guid": "ce09ecdf222d"
+      "guid": "519952ef1cd0"
     },
     {
-      "id": 26,
+      "id": 38,
       "category": "hardware",
-      "title": "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热",
-      "summary": "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热",
+      "title": "内存成本飙升，消息称英伟达 AI 芯片服务器明年初起涨价最高超 15%",
+      "summary": "内存成本飙升，消息称英伟达 AI 芯片服务器明年初起涨价最高超 15%",
       "source": "IT之家",
-      "time": "2026-08-22",
-      "url": "https://www.ithome.com/0/992/892.htm",
+      "time": "2026-08-23",
+      "url": "https://www.ithome.com/0/993/136.htm",
       "isHot": false,
       "isImportant": false,
-      "guid": "a9a7cd3a3e2d"
+      "guid": "c67babdf7297"
     },
     {
-      "id": 27,
+      "id": 39,
       "category": "hardware",
-      "title": "Mercury：AMD 客户端 CPU 份额首次突破 30%，英特尔优势进一步缩小",
-      "summary": "Mercury：AMD 客户端 CPU 份额首次突破 30%，英特尔优势进一步缩小",
+      "title": "Linux 7.3 新增 AMD 低功耗核心支持，统一英特尔和 AMD 核心类型处理",
+      "summary": "Linux 7.3 新增 AMD 低功耗核心支持，统一英特尔和 AMD 核心类型处理",
       "source": "IT之家",
-      "time": "2026-08-22",
-      "url": "https://www.ithome.com/0/992/881.htm",
+      "time": "2026-08-23",
+      "url": "https://www.ithome.com/0/993/115.htm",
       "isHot": false,
       "isImportant": false,
-      "guid": "5280d1662301"
+      "guid": "2071b254ef20"
     },
     {
-      "id": 28,
+      "id": 40,
       "category": "hardware",
-      "title": "SSD 与 HDD 价差创纪录，30TB 企业级固态硬盘飙至 22600 美元达机械硬盘 18.6 倍",
-      "summary": "SSD 与 HDD 价差创纪录，30TB 企业级固态硬盘飙至 22600 美元达机械硬盘 18.6 倍",
+      "title": "当贝推出 RX10 投影仪：0.33\" DMD 显示芯片、1200CVIA 流明，5499 元",
+      "summary": "当贝推出 RX10 投影仪：0.33\" DMD 显示芯片、1200CVIA 流明，5499 元",
       "source": "IT之家",
-      "time": "2026-08-22",
-      "url": "https://www.ithome.com/0/992/868.htm",
+      "time": "2026-08-23",
+      "url": "https://www.ithome.com/0/993/101.htm",
       "isHot": false,
       "isImportant": false,
-      "guid": "741ade36eb42"
+      "guid": "091e4a1f2bd8"
+    },
+    {
+      "id": 41,
+      "category": "hardware",
+      "title": "微星为无烬 E1 台式机新增“i5-14400F + 32G + 1T + RTX5060Ti”版本，9599 元",
+      "summary": "微星为无烬 E1 台式机新增“i5-14400F + 32G + 1T + RTX5060Ti”版本，9599 元",
+      "source": "IT之家",
+      "time": "2026-08-23",
+      "url": "https://www.ithome.com/0/993/084.htm",
+      "isHot": false,
+      "isImportant": false,
+      "guid": "156db4d1a3a0"
     }
   ]
 }
